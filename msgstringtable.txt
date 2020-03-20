@@ -1,90 +1,90 @@
-�Est�s de acuerdo?#
-Failed to Connect to Server.#
-Disconnected from Server.#
-Disconnected from Server!#
-Server Closed.#
-Someone has Logged in with this ID.#
-Unregistered ID. Please make sure you have a registered account and you have correctly typed in the user ID.#
-Incorrect User ID or Password. Please try again.#
-This ID is expired.#
-Rejected from Server.#
-Character Name already exists.#
-Character Creation is denied.#
-Character Deletion is denied.#
-Please Enter Room Title.#
-Foul Language Detected.#
-Please enter Password.#
-Please enter Password. Passwords must be at least 4 characters long.#
-Are you sure that you want to quit?#
-Passwords are at least 4 characters long. Please try again.#
-Are you sure that you want to delete this character?#
-Foul Language Detected.#
-Character Name must be at least 4 characters long.#
-Command List: /h | /help#
-Effects On#
-Effects Off#
-Sound Volume#
-BGM Volume#
-Sound Effects On#
-Sound Effects Off#
-Frame Skip On#
-Frame Skip Off#
-BGM On#
-BGM Off#
-/h or /help: Shows this Command Help List#
-/w or /who or /player or /who : wiew current the number of player#
-/music: Turns BGM On or Off#
-/sound: Turns Sound Effects On or Off#
-/effect: Effects On or Off#
-/where: Shows your present location#
-/skip: Turns Frame Skip On or Off#
-/v (0~127): Controls the volume of the Sound Effects#
-/bv (0~127): Controls the volume of the BGM#
-/ex (Character Name): Blocks whispering from the Character#
-/ex: View a list of Characters you have Blocked#
-/in (Character Name): Allows whispering from the Character#
-/inall: Allows whispers from anyone#
-/exall: Blocks whispers from everyone#
-Right click on a character and select [Register as a Friend] to add a person to your Friend List.#
-F12 Brings up a Hotkey Window which allows you to drag and drop Recovery Items, Equipment and Skills into it for faster access.#
-You can't type the same word/phrase more than 3 times.#
-Chat Filter: Yeah, uh, I don't think so buddy...#
-You cannot overlap items on a window.#
-You cannot carry more items because you are overweight.#
-You cannot get the item.#
-The deal has successfully completed.#
-You do not have enough zeny.#
-You are over your Weight Limit.#
-The deal has failed.#
-You've blocked whispers from everyone.#
-You've failed to block all whispers.#
-You've allowed whispers from everyone.#
-You've failed to allow all whispers.#
-You have no Block List.#
-[ Character Block List ]#
-Room has been successfully created.#
-Room Limit Exceeded.#
-Same Room exists.#
-The Room is full.#
-You have been kicked out of this room.#
-The deal has been rejected.#
-You are too far away from the person to trade.#
-The Character is not currently online or does not exist.#
-The person is in another deal.#
-You cannot trade because this character will exceed his weight limit.#
-The deal has been canceled.#
-The deal has successfully completed.#
-The deal has failed.#
-Party has successfully been organized.#
-That Party Name already exists.#
-The Character is already in a party.#
-The Character already joined another party.#
-Request for party rejected.#
-Request for party accepted.#
-Party Capacity exceeded.#
-You left the party.#
-Send to All#
-Send to Party#
+¿Estás de acuerdo?#
+Error al conectar con el Servidor.#
+Desconectado del Servidor.#
+Desconectado del Servidor!#
+Servidor Cerrado.#
+Alguien ha iniciado sesión con esta ID.#
+ID de Usuario no registrada. Asegúrese de tener una cuenta registrada y de haber ingresado correctamente la ID de Usuario.#
+ID de Usuario o contraseña incorrecta. Inténtelo de nuevo.#
+Esta ID ha expirado.#
+Rechazado del Servidor.#
+Ya existe este nombre.#
+No puedes crear más personajes.#
+No puedes borrar este personaje.#
+Por favor escriba un titulo para la sala de chat.#
+Idioma no detectado.#
+Por favor escribe tu contraseña.#
+Por favor escribe tu contraseña. La contraseña ha de tener al menos 4 caracteres de longitud.#
+¿Estás seguro que deseas salir?#
+La contraseña debe tener por lo menos 4 caracteres de longitud. Por favor, intentelo de nuevo.#
+¿Estás seguro que quieres borrar este personaje?#
+Idioma no detectado.#
+El nombre de tu personaje debe tener al menos 4 caracteres de longitud.#
+Lista de Comandos: /h | /help#
+Efectos Activados#
+Efectos Desactivados#
+Volumen de Sonido#
+Volumen de Música#
+Efectos de sonido Activados#
+Efectos de sonido Desactivados#
+Salto de Frame Activado#
+Salto de Frame Desactivado#
+Música Activada#
+Música Desactivada#
+/h or /help: Muestra la lista de Ayuda#
+/w or /who or /player or /who : Muestra el número de jugadores conectados#
+/music: Activa o Desactiva la Música#
+/sound: Activa o Desactiva los Efectos de Sonido#
+/effect: Activa o Desactiva los Efectos#
+/where: Muestra tu Ubicación Actual#
+/skip: Activa o Desactiva el Salto de Frame#
+/v (0~127): Controla el volumen de los Efectos de Sonido#
+/bv (0~127): Controla el volumen de la Música#
+/ex (Nombre del Jugador): Bloquea susurros de ese jugador#
+/ex: Ver lista de jugadores bloqueados#
+/in (Nombre del Jugador): Acepta susurros de ese jugador#
+/inall: Permite susurros de cualquier jugador#
+/exall: Bloquea susurros de todos los jugadores#
+Haga clic derecho sobre un personaje y seleccione [Registrar Amigo] para añadirlo a su lista de amigos.#
+F12: Abre la barra de Acceso Rápido, donde puedes colocar objetos Consumibles, Equipamiento y Habilidades para acceder rápidamente a ellas.#
+No se puede escribir la misma palabra o frase, más de 3 veces.#
+El mensaje no se envió por contener lenguaje inapropiado.#
+No puede superponer objetos en la ventana.#
+No puedes cargar más objetos, porque estas con sobrepeso.#
+No puedes recoger ese objeto.#
+El negocio se ha completado exitosamente.#
+No tienes suficiente zeny.#
+Has superado el límite de peso.#
+El negocio ha fracasado.#
+Has bloqueado los susurros para todo el mundo.#
+Has fallado al bloquear todos los susurros.#
+Has permitido los susurros para todo el mundo.#
+Has fallado al activar todos los susurros.#
+No tienes una lista de bloqueos.#
+[ Lista de Jugadores Bloqueados ]#
+El chat se ha creado exitosamente.#
+Límite del chat superado.#
+Ya existe este chat.#
+El chat esta lleno.#
+Has sido expulsado de este chat.#
+El negocio ha sido cancelado.#
+Estás demasiado lejos para comerciar con ese jugador.#
+Ese personaje no esta conectado o no existe.#
+Está negociando con otra persona.#
+No puedes negociar con él, está con sobrepeso.#
+El negocio ha sido cancelado.#
+El negocio se ha completado exitosamente.#
+El negocio ha fracasado.#
+El party se ha creado correctamente.#
+Ya existe un party con ese nombre.#
+El personaje ya esta en otro party.#
+El personaje ya se ha unido a otro party.#
+Solicitud de party rechazada.#
+Solicitud de party aceptada.#
+El party está lleno.#
+Has dejado el party.#
+Enviar a todos#
+Enviar al party#
 Send transaction request#
 Send party invitation#
 Pri:#
@@ -3444,8 +3444,8 @@ The party leader is in the map that can't receive request.#
 No party can be found.#
 Party request.#
 http://rathena.org#
-��#
-��#
+¡ã#
+¡å#
 You're already friends#
 Can't find other party#
 You're already a friend with another character.#
