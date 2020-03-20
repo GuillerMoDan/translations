@@ -21,16 +21,16 @@ La contraseña debe tener por lo menos 4 caracteres de longitud. Por favor, inte
 Idioma no detectado.#
 El nombre de tu personaje debe tener al menos 4 caracteres de longitud.#
 Lista de Comandos: /h | /help#
-Efectos Activados#
-Efectos Desactivados#
+Efectos On#
+Efectos Off#
 Volumen de Sonido#
 Volumen de Música#
-Efectos de sonido Activados#
-Efectos de sonido Desactivados#
-Salto de Frame Activado#
-Salto de Frame Desactivado#
-Música Activada#
-Música Desactivada#
+Efectos de sonido On#
+Efectos de sonido Off#
+Salto de Frame On#
+Salto de Frame Off#
+Música On#
+Música Off#
 /h or /help: Muestra la lista de Ayuda#
 /w or /who or /player or /who : Muestra el número de jugadores conectados#
 /music: Activa o Desactiva la Música#
@@ -45,7 +45,7 @@ Música Desactivada#
 /in (Nombre del Jugador): Acepta susurros de ese jugador#
 /inall: Permite susurros de cualquier jugador#
 /exall: Bloquea susurros de todos los jugadores#
-Haga clic derecho sobre un personaje y seleccione [Registrar Amigo] para añadirlo a su lista de amigos.#
+Haga clic derecho sobre un personaje y seleccione [ Registrar Amigo ] para añadirlo a su lista de amigos.#
 F12: Abre la barra de Acceso Rápido, donde puedes colocar objetos Consumibles, Equipamiento y Habilidades para acceder rápidamente a ellas.#
 No se puede escribir la misma palabra o frase, más de 3 veces.#
 El mensaje no se envió por contener lenguaje inapropiado.#
@@ -85,240 +85,240 @@ El party está lleno.#
 Has dejado el party.#
 Enviar a todos#
 Enviar al party#
-Send transaction request#
-Send party invitation#
+Solicitar transacción#
+Enviar invitación de party#
 Pri:#
 Pub:#
-Click ''Restart'' to go back to your save point or click ''Exit'' to select another character.#
-Please select a Deal Type.#
- requests a deal.#
- Party has sent you an invitation. Would you like to join?#
-Invalid Command#
-Leave party#
-Expel from party#
-Send Message#
+Pulse ''Reiniciar'' para volver al punto de Guardado o pulse ''Salir'' para elegir otro personaje.#
+Seleccione un tipo de oferta.#
+ Solicitar un trato#
+ Has sido invitado a éste party. ¿Quieres unirte?#
+Comando Inválido#
+Dejar party#
+Expulsar del party#
+Enviar Mensaje#
 1:1 Chat#
-Information#
-Party Setup#
-Friend#
+Información#
+Configuración del party#
+Amigos#
 Party#
-Equipped items#
+Equipamiento#
 Status#
-Inventory#
-/organize ''Party Name'' To organize a party. Type /leave To leave a Party.#
-If you are the party master, you can invite someone into your party by right-clicking on a Character.#
-Recover#
-Attack#
-Support#
-Entire#
-Weapon#
-Defense#
-Water#
-Earth#
-Fire#
-Wind#
-Please avoid buying 2 of the same items at one time.#
-Please change your desktop Color Depth to 16-bit when running Ragnarok in windowed mode.#
-Please wait...#
-Please wait...#
-Please wait...#
-Please wait...#
-Create Chat Room#
-Room Setup#
-Kick Character Out#
-Give Master Authority#
-View Information#
-Chat Room#
-Ppl#
-/sit: Sit command. If you are sitting, you will stand instead.#
-/stand: Stand command. If you are standing, you will sit instead.#
-/chat: Creates a Chat Room#
-/q: Leaves a Chat Room#
-/deal ''Character Name'' Requests a deal with a character#
-/organize ''Party Name'' Organizes a party#
-/leave: Leaves a party#
-/expel ''Character Name'' kicks a Character out of your party#
-[Alt] + [End]: Turns HP/SP Bar On or Off#
-[Alt] + [Home]: Turns Ground Cursor On or Off#
-[Insert]: Makes you sit or stand. (Hotkey to toggle between /sit and /stand)#
-Congratulations! You are the MVP! Your reward item is #
+Inventario#
+/organize ''Nombre del Party'' para crear un party. Usa /leave para dejar el party.#
+Si eres líder del party, puedes invitar a alguien haciendo clic derecho sobre el personaje.#
+Recuperar#
+Ataque#
+Soporte#
+Entero#
+Arma#
+Defensa#
+Agua#
+Tierra#
+Fuego#
+Viento#
+Evite comprar 2 objetos del mismo tipo a la vez.#
+Por favor, cambia tu resolución a 16-bit cuando juegues RO en modo ventana.#
+Por favor espera...#
+Por favor espera...#
+Por favor espera...#
+Por favor espera...#
+Crear un chat#
+Configuración del chat#
+Expulsar del chat#
+Dar privilegios#
+Ver información#
+Sala#
+Personas#
+/sit: Te sientas. Si estas sentado, te levanta.#
+/stand: Te levantas. Si estas de pie, te sienta.#
+/chat: Crea una sala de chat#
+/q: Abandonas una sala de chat#
+/deal ''Nombre del Personaje'' Solicita comerciar con el personaje#
+/organize ''Nombre del Party'' Crea un party#
+/leave: Dejas ese party#
+/expel ''Nombre del Personaje'' Echa al personaje del party#
+[Alt] + [End]: Activa o desactiva la barra de HP/SP#
+[Alt] + [Home]: Activa o desactiva la señal de tierra del cursor#
+[Insert]: Te levantas o te sientas. (Acceso rápido entre /sit y /stand)#
+¡Felicidades! Eres un MVP! Has conseguido #
 !!#
-Congratulations! You are the MVP! Your reward EXP Points are #
+¡Felicidades! Eres un MVP! Obtienes puntos de EXP #
 !!#
-You are the MVP, but you can't take the reward because you are over your weight limit.#
-There is no such character name or the user is offline.#
- doesn't want to receive your messages.#
- is not in the mood to talk with anyone.#
-Killed/Disconnected User.#
-Kill has failed.#
-You got %s (%d).#
-[Alt] + [=]: Fix the interval error between letters.#
-[F10]: To toggle Chat Window size; [Alt] + [F10]: Toggle Chat Window On or Off#
-How to Whisper: Enter a Character's Name on the left side of chat window and type your message on the right side. The Tab key helps you move between these boxes.#
-/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/??,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
-How to Speak to Party: Add '%' in front of every message.(Example: \%Hello\)#
-You haven't learned enough Basic Skills to Trade.#
-You haven't learned enough Basic Skills to use Emotion icons.#
-You haven't learned enough Basic Skills to Sit.#
-You haven't learned enough Basic Skills to create a chat room.#
-You haven't learned enough Basic Skills to Party.#
-You haven't learned enough skills to Shout.#
-You haven't learned enough skills for Pking.#
-Buying Items#
-Item Shop#
-Selling Items#
+Eres un MVP, pero no puedes conseguir el premio porque tienes sobrepeso.#
+No existe ese personaje o esta desconectado.#
+ no quiere recibir tus mensajes.#
+ no esta para hablar con nadie.#
+Usuario Desconectado/Muerto.#
+No se puede expulsar.#
+Has conseguido %s (%d unid).#
+[Alt] + [=]: Repara el error de intervalo entre letras.#
+[F10]: Alternar el tamaño de la ventana de chat; [Alt] + [F10]: Activar o desactivar la ventana de chat#
+Para Susurrar: Escribe el nombre del Personaje en la parte izquierda de la ventana de Chat, y escribe el mensaje en la de la derecha. La tecla Tab te ayudará a cambiar de celda.#
+/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/??,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emoticonos correspondientes a Alt + (1~9) Ctrl + (-=\\)#
+Para hablar al Party: Añade '%' delante de cada mensaje.(Ejemplo: \%Hola\)#
+No has aprendido las Skills Básicas para Comerciar.#
+No has aprendido las Skills Básicas para usar Emoticonos.#
+No has aprendido las Skills Básicas para para sentarte.#
+No has aprendido las Skills Básicas para crear una Sala de Chat.#
+No has aprendido las Skills Básicas para crear un Party.#
+No has aprendido las Skills Básicas para gritar.#
+No has aprendido las Skills Básicas para pelear.#
+Items a comprar#
+Tienda de Items#
+Venta de Items#
 Storage#
- is put on.#
- is taken off.#
-To add names on the Whispering List#
-How to Take Screen Shots: Press [Print Screen] or [Scroll Lock]#
-Tip of the Day#
-^3850a0Did you know...?^709fed#
-Display at startup#
-/tip: Opens ''Tip of the Day''#
-There are %d Players Currently Connected.#
-(%s) has entered.#
-(%s) has left.#
-(%s) was kicked out.#
+ ha sido equipado.#
+ ha sido desequipado.#
+Para añadir nombres a la Lista de Susurros#
+Para hacer Capturas de Pantalla: Pulsa [Print Screen] o [Scroll Lock]#
+Consejo del día:#
+^3850a0¿Sabias que ...?^709fed#
+Abrir al iniciar el Juego#
+/tip: Abre el ''Consejo del Día''#
+Hay %d Jugadores Conectados Actualmente.#
+(%s) ha Ingresado.#
+(%s) ha salido.#
+(%s) fue expulsado.#
  %d ea.#
 %s: %d ea.#
 %s %s: %d ea.#
-Available Items to sell#
-Shop Items#
-Unknown Area#
-Your Client language doesn't match the Server language.#
-Please move your equipment to the inventory. And close the equipment window.#
-This server provides English Text Characters Only.#
-This is not implemented yet.#
-No Whisper List.#
-: Whispering Blocked.#
-: Whispering Block has failed.#
-: Whispering Block has failed. Block List is full.#
-: Whispering accepted.#
-: Command has failed.#
-: Command has failed. Block List is full.#
-You cannot put a space at the beginning or end of a name.#
-Private#
-Public#
-Insufficient SP#
-Insufficient HP#
-Skill has failed.#
-Steal has failed.#
-Trade#
-Envenom skill has failed.#
-You cannot use this ID on this server.#
-Speed has increased.#
-Speed has decreased.#
-/memo: To memorize a place as Warp Point (If you are an Acolyte Class character)#
-Random Area#
-Select an Area to Warp#
-Skill Level is not high enough#
-There are no memorized locations (Memo Points).#
-You haven't learned Warp skill.#
-Current location is saved as a Memo Point for Warp Skill.#
-Cancel#
-There is a Delay after using a Skill.#
-You can't have this item because you will exceed the weight limit.#
-Out of the maximum capacity#
-Cart Items#
-Take off Cart#
-Opening a stall#
-Please Name your Shop.#
-My Shop#
-Merchant Shop#
-Buying Items#
-%s Purchase Failed %s#
-Out of Stock#
-%s %d sold.#
-Available Items for Vending#
-Skill has failed because you do not have enough zeny.#
-Select a Target.#
-/pk on: Turns PK On. /pk off: Turns PK Off.#
-Shop#
-Cart Items [Alt+W]#
-Basic Information#
-The skill cannot be used with this weapon.#
-Buying %s has been failed. Out of Stock. Current Stock %d.#
-You've been disconnected due to a time gap between you and the server.#
-Please equip the proper ammunition first.#
-You can't attack or use skills because you've exceeded the Weight Limit.#
-You can't use skills because you've exceeded the Weight Limit.#
-Ammunition has been equipped.#
-Red Gemstone required.#
-Blue Gemstone required.#
-Strength#
-Agility#
-Vitality#
-Intelligence#
-Dexterity#
-Luck#
-Physical Attack#
-Physical Defense#
-Accuracy Rate#
-Critical Attack Rate#
-Assigned Guild#
-Status Points to allocate#
-Magical Attack#
-Magical Defense#
-Flee Rate#
-Attack Speed#
-Server is jammed due to over population. Please try again shortly.#
-Option#
-Account ID blocked by the Game Master Team.#
-Incorrect User ID or Password. Please try again.#
-Choose Hairstyle#
+Items para vender#
+Tienda de Items#
+Lugar Desconocido#
+El lenguaje de tu cliente no se corresponde con el de nuestro Servidor.#
+Solo puedes mover items del inventario. Por favor, quítate el item primero o cierra la ventana de equipamiento.#
+Este Servidor solo ofrece texto en Español.#
+Esto no se ha implementado aun.#
+Lista Susurros vacía.#
+: Susurros bloqueados.#
+: Ha fallado el bloqueo de Susurros.#
+: Ha fallado el bloqueo de Susurros. La lista está llena.#
+: Susurros aceptados.#
+: El comando ha fallado.#
+: El comando ha fallado. La lista está llena.#
+No escribas Espacios al principio o al final de un Nombre.#
+Privado#
+Publico#
+No tienes suficiente SP#
+No tienes suficiente HP#
+Ha Fallado la Skill.#
+Steal ha fallado.#
+Comerciar#
+Envenom no ha funcionado.#
+No puedes usar esa ID en este servidor.#
+Velocidad aumentada.#
+Velocidad disminuída.#
+/memo: Para memorizar este lugar como punto de Teletransporte (Si eres Acolyte)#
+Lugar Aleatorio#
+Selecciona un Lugar para Teletransportarse#
+Nivel de Skill insuficiente#
+No hay Lugares Memorizados (Memo Points).#
+No has Aprendido Teletransportación.#
+Punto de Teletransportación guardado.#
+Cancelar#
+Hay un retraso entra una Skill y la siguiente#
+Límite de capacidad máxima, tienes demasiados objetos..#
+Fuera de la capacidad máxima#
+Objetos del Carro#
+Quitar Carro#
+Poner Tienda#
+Nombre de tu Tienda.#
+Mi Tienda#
+Tienda#
+Objetos para vender#
+%s Compra Fallida %s#
+Agotado#
+%s %d vendido.#
+Objetos Disponibles para Vender#
+La Skill ha Fallado porque no tienes suficiente zeny.#
+Selecciona un Objetivo.#
+/pk on: Activa el modo PK. /pk off: Desactiva el modo PK.#
+Tienda#
+Objetos del Carro [Alt+W]#
+Información Básica#
+No puedes usar la Skill con esa Arma.#
+La Compra de %s ha Fallado. Agotado. Productos disponibles %d.#
+Has sido desconectado debido a un desfase entre el servidor y tu.#
+Por favor equipate las municiones primero.#
+No puedes Atacar o usar Skills mientras tengas sobrepeso.#
+No puedes usar Skills mientras tengas sobrepeso.#
+Municiones Equipadas.#
+Necesitas Red Gemstone.#
+Necesitas Blue Gemstone.#
+Fuerza#
+Agilidad#
+Vitalidad#
+Inteligencia#
+Destreza#
+Suerte#
+Ataque Físico#
+Defensa Física#
+Tasa de Precisión#
+Tasa de Ataque Crítico#
+Gremio Asignado#
+Puntos de Status#
+Ataque Mágico#
+Defensa Mágica#
+Tasa de Evasión#
+Velocidad de Ataque#
+El servidor esta saturado por exceso de población.#
+Opciones#
+Tu cuenta ha sido bloqueada por el Staff.#
+ID de usuario o contraseña incorrecta. Por favor, inténtelo de nuevo.#
+Elige un peinado#
 ATK#
 DEF#
-Attack Snap On#
-Attack Snap Off#
-Skill Snap On#
-Skill Snap Off#
-/snap: Turns snap On | Off for fights, /skillsnap: Turns snap On | Off for skills. /itemsnap: Turns snap On | Off for items on the grounds.#
-Item Snap On#
-Item Snap Off#
+Snap de Ataque On#
+Snap de Ataque Off#
+Snap de Skill On#
+Snap de Skill Off#
+/snap: Usa snap On | Off para pelear, /skillsnap: Usa snap On | Off para skills. /itemsnap: Usa snap On | Off para Items en el suelo.#
+Snap de Item On#
+Snap de Item Off#
 Snap#
-You cannot carry more than 30,000 of one kind of item.#
-You cannot delete a Character with a level greater than 30. If you want to delete the character please contact a Game Master.#
-You cannot use an NPC shop while in a trade.#
-Name#
-Skill Tree#
-Skill Point: %d#
-Skill has failed.#
-Passive#
-Each Take #
-Even Share#
-Each Take#
-Party Share#
-Party Setup#
-How to share EXP#
-How to share Items#
-Only the Party Leader can change this setting.#
-Toggle Item Amount.#
-Character will be deleted after ^ff0000%d^000000 seconds. Press Cancel to quit.#
-You cannot trade more than 10 types of items per trade.#
-You are underaged.#
-Please enter the deletion password.#
-E-mail Address (Case Sensitive).#
-Character Deletion has failed because you have entered an incorrect e-mail address.#
-Enter Second Serial Cord of your Social Security number.#
-Character Deletion has failed because you have entered an incorrect SSN.#
-You can't sell more than 15 types of Items at one time.#
-You are underaged and cannot join this server.#
-HP and SP natural regeneration are disabled because your carried weight is over 50% of the Weight Limit.#
-You can't use Skills or Attack while your carried weight is over 90% of your Weight Limit.#
-Your HP/SP are now being restored naturally.#
-Attack and Skills are now available.#
-Your Game's Exe File is not the latest version.#
-Items are sold out.#
-Save Chat as Text File#
-/savechat: Save a Chat Log#
-Register#
-Reject Whispering#
-Allow Whispering#
-Shows ''Miss'' On#
-Shows ''Miss'' Off#
-Camera Zooming On#
-Camera Zooming Off#
+No puedes cargar más de 30,000 unidades de cada tipo de Item.#
+No puedes borrar un personaje de nivel superior a 30. Si deseas borrar el personaje contacta con un GM.#
+No puedes usar una tienda de NPC mientras comercias con alguien.#
+Nombre#
+Árbol de Skills#
+Puntos de Skill: %d#
+La Skill ha fallado.#
+Pasiva#
+Por su cuenta #
+Compartir#
+Cada uno recoge#
+Compartir party#
+Configuración de party#
+Compartir EXP#
+Compartir Items#
+Solo el líder del party puede cambiar esta configuración.#
+Alternar cantidad de Items.#
+El Personaje se eliminará en ^ff0000%d^000000 segundos. Pulsa Cancelar para impedirlo.#
+No puedes comerciar más de 10 tipos de Items por vez.#
+Eres menor de edad.#
+Por favor, ingrese la contraseña para eliminar.#
+Dirección de E-mail (Distingue mayúsculas y minúsculas).#
+La eliminación de Personaje ha fallado porque ha ingresado una dirección de E-mail incorrecta.#
+Si ves este mensaje, repórtalo al Administrador.#
+Si ves este mensaje, repórtalo al Administrador.#
+No puedes vender más de 15 tipos de Items por vez.#
+Eres menor de edad, no puedes jugar en este servidor.#
+Tu HP/SP no se restaurará mientras tu peso supere el 50%.#
+No puedes usar Skills ni Atacar mientras tu peso supere el 90%.#
+Ahora tu HP/SP se recuperará con normalidad.#
+Ataque y Skills ya están disponibles.#
+Tu Cliente no está actualizado o está mal instalado.#
+Items Agotados.#
+Guardar Chat en Nota de Texto#
+/savechat: Para guardar registro de chat#
+Registrarse#
+Rechazar Susurros#
+Permitir Susurros#
+Mostrar ''Miss''#
+Ocultar ''Miss''#
+Zoom de la Cámara On#
+Zoom de la Cámara Off#
 /camera: Camera Zooming On or Off. /miss: Toggle ''Miss'' display#
 View Skill Info#
 Change Skill#
