@@ -319,74 +319,74 @@ Mostrar ''Miss''#
 Ocultar ''Miss''#
 Zoom de la Cámara On#
 Zoom de la Cámara Off#
-/camera: Camera Zooming On or Off. /miss: Toggle ''Miss'' display#
-View Skill Info#
-Change Skill#
-Sprite Resolution#
-Texture Resolution#
-Arrange Detail#
-%s Zeny obtained#
-Guild Name#
-Guild Level#
-Guild Master#
-Members#
-Avg.lvl of Members#
-Territory#
-Tendency#
+/camera: Zoom de Cámara On o Off. /miss: Toggle ''Miss'' display#
+Ver Información de Skill#
+Cambiar Skill#
+Resolución de Sprite#
+Resolución de Texturas#
+Organizar Detalles#
+Obtienes %Zeny#
+Nombre del Gremio#
+Nivel del Gremio#
+Dueño del Gremio#
+Miembros#
+Promedio de Nivel de Miembros#
+Territorio#
+Tendencia#
 EXP#
-Emblem#
-Tax Point#
-Alliances#
-Antagonists#
-Guild Info#
-Member#
-Position#
-Guild Skill#
-Expel List#
-Announcement#
-Entire Guild List#
-Whispering List#
-Open Whispering Window#
-How to Open Whispering List: Press [Alt] + [H]#
-Open Whispering List Automatically#
-Delete#
-Close since next#
-Last Log-in Time#
-Last Log-in IP#
-Friend Setup#
-Are you sure that you want to delete?#
-Are you sure that you want to leave?#
-Register as a Friend#
-Open 1:1 Chat between Friends#
-Open 1:1 Chat#
-Open 1:1 Chat between Strangers#
-Alarm when receive a 1:1 Chat#
-Are you sure that you want to expel?#
-%s has withdrawn from the guild.#
-Secession Reason: %s#
-You have failed to disband the guild.#
-Disband Reason: %s#
-This ID has been removed.#
-Price: #
-%s has been expelled from our guild.#
-Expulsion Reason: %s#
-You can't put this item on.#
-You can't modify Party Setup.#
-Guild has been Created.#
-You are already in a Guild.#
-That Guild Name already exists.#
- Guild has sent you an invitation. Would you like to join this Guild?#
-He/She is already in a Guild.#
-Offer Rejected#
-Offer Accepted#
-Your Guild is Full.#
-Send (%s) a Guild invitation#
-You haven't learned enough skills for aligning.#
-Aligning completed.#
-You already spent your point for today.#
-Hasn't been a month yet since you aligned this person.#
-Received positive manner point from %s.#
-Received negative manner point from %s.#
+Emblema#
+Impuesto#
+Alianzas#
+Antagonistas#
+Info de Gremio#
+Miembro#
+Rango#
+Skills de Gremio#
+Expulsiones#
+Anuncios#
+Lista del Gremio#
+Lista de Susurros#
+Abrir ventana de Susurros#
+Para Abrir la ventana de Susurros: Pulsa [Alt] + [H]#
+Abrir la ventana de Susurros Automáticamente#
+Borrar#
+Cerrar desde el siguiente#
+Último tiempo de juego#
+Última IP utilizada#
+Configuración de Amigos#
+¿Seguro que quieres Borrar?#
+¿Seguro que quieres Salir?#
+Registrar como Amigo#
+Abrir Chat 1:1 entre Amigos#
+Abrir Chat 1:1#
+Abrir Chat 1:1 entre Desconocidos#
+Avisar al recibir 1:1 Chat#
+¿Seguro que quieres Expulsarlo?#
+%s se ha retirado del Gremio.#
+Razón de Renuncia: %s#
+Has fallado en disolver el Gremio.#
+Razón de la disolución del Gremio: %s#
+Esta ID ha sido eliminada.#
+Precio: #
+%s ha sido expulsado de nuestro Gremio.#
+Razón de la Expulsión: %s#
+No puedes equiparte este Item.#
+No puedes cambiar la configuración del Party.#
+El Gremio ha sido creado.#
+Ya estás en un Gremio.#
+El Nombre del Gremio ya existe, elige otro.#
+ Has sido invitado a unirte a este Gremio. ¿Te gustaria unirte?#
+Ya está en un Gremio.#
+Invitación Rechazada#
+Invitación Aceptada#
+Tu Gremio está Completo.#
+Enviar a (%s) una invitación al Gremio#
+No has aprendido suficientes Skills para Juzgar a alguien.#
+Has Juzgado al Jugador.#
+Ya has gastado tu punto de hoy.#
+Aun no ha transcurrido un mes desde que puntuaste a esa persona.#
+Recibiste un Punto Positivo de %s.#
+Recibiste un Punto Negativo %s.#
 Align with a Good Point#
 Align with a Bad Point#
 Request a deal with (%s)#
