@@ -209,7 +209,7 @@ Envenom no ha funcionado.#
 No puedes usar esa ID en este servidor.#
 Velocidad aumentada.#
 Velocidad disminuída.#
-/memo: Memoriza éste lugar como punto de Teletransporte (Si eres Acolyte)#
+/memo: Memoriza este lugar como punto de Teletransporte (Si eres Acolyte)#
 Lugar Aleatorio#
 Selecciona un Lugar para Teletransportarse#
 Nivel de Skill insuficiente#
@@ -589,7 +589,7 @@ No puedes abrir Salas de Chat mientras vendes.#
 ea#
 Has vencido a %s.#
 Has sido vencido por %s.#
-Este Pet se alimenta de '%s' necesitas con seguir más.#
+Este Pet se alimenta de '%s' necesitas conseguir más#
 Alimentar#
 Acción#
 Devolver al Huevo#
