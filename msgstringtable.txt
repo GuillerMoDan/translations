@@ -589,7 +589,7 @@ No puedes abrir Salas de Chat mientras vendes.#
 ea#
 Has vencido a %s.#
 Has sido vencido por %s.#
-Este Pet se alimenta de '%s' necesitas conseguir más#
+Este Pet se alimenta de '%s' necesitas conseguir más.#
 Alimentar#
 Acción#
 Devolver al Huevo#
