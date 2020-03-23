@@ -105,7 +105,7 @@ Party#
 Equipamiento#
 Status#
 Inventario#
-/organize ''Nombre del Party'' para crear un party. Usa /leave para dejar el party.#
+/organize ''Nombre del Party'' crea un party. Usa /leave para dejar el party.#
 Si eres líder del party, puedes invitar a alguien haciendo clic derecho sobre el personaje.#
 Recuperar#
 Ataque#
@@ -209,7 +209,7 @@ Envenom no ha funcionado.#
 No puedes usar esa ID en este servidor.#
 Velocidad aumentada.#
 Velocidad disminuída.#
-/memo: Para memorizar este lugar como punto de Teletransporte (Si eres Acolyte)#
+/memo: Memoriza éste lugar como punto de Teletransporte (Si eres Acolyte)#
 Lugar Aleatorio#
 Selecciona un Lugar para Teletransportarse#
 Nivel de Skill insuficiente#
@@ -311,7 +311,7 @@ Ataque y Skills ya están disponibles.#
 Tu Cliente no está actualizado o está mal instalado.#
 Items Agotados.#
 Guardar Chat en Nota de Texto#
-/savechat: Para guardar registro de chat#
+/savechat: Guarda el registro de chat#
 Registrarse#
 Rechazar Susurros#
 Permitir Susurros#
@@ -386,161 +386,161 @@ Has Juzgado al Jugador.#
 Ya has gastado tu punto de hoy.#
 Aun no ha transcurrido un mes desde que puntuaste a esa persona.#
 Recibiste un Punto Positivo de %s.#
-Recibiste un Punto Negativo %s.#
-Align with a Good Point#
-Align with a Bad Point#
-Request a deal with (%s)#
-Ask (%s) to join your party#
- Guild is asking you to agree to an Alliance with them. Do you accept?#
-This Guild is already your Ally.#
-You reject the offer#
-You accept the offer#
-They have too many Alliances.#
-You have too many Alliances.#
-Set this guild as an Alliance#
-Guild was successfully disbanded.#
-You have failed to disband the guild due to your incorrect SSN.#
-You have failed to disband the guild because there are guildsmen still present.#
-Set this guild as an Antagonist#
-Choose Hair Color#
-You need the necessary item to create a Guild.#
-Monster Info#
-Name#
-Level#
+Recibiste un Punto Negativo de %s.#
+Recibiste un Punto Positivo#
+Recibiste un Punto Negativo#
+Comerciar con (%s)#
+Proponer a (%s) unirse al party#
+ El Gremio te propone formar una alianza con ellos. ¿Aceptas?#
+Este Gremio ya es tu aliado.#
+Rechazas la Invitación#
+Aceptas la Invitación#
+Tienen demasiadas Alianzas.#
+Tienes demasiadas Alianzas.#
+Proponer Alianza a este Gremio#
+La Gremio se ha disuelto correctamente.#
+Has fallado al disolver el Gremio porque su SSN es incorrecta.#
+Has fallado al disolver el Gremio porque todavía quedan Miembros dentro.#
+Declarar al Gremio como Antagonista#
+Elegir Color de Cabello#
+Necesitas un Emperium para crear un Gremio.#
+Información del Monstruo#
+Nombre#
+Nivel#
 HP#
-Size#
-Type#
+Tamaño#
+Tipo#
 MDEF#
-Element#
+Elemento#
 Neutral#
-Water#
-Earth#
-Fire#
-Wind#
-Poison#
-Holy#
-Shadow#
-Ghost#
-Undead#
-You can't create items yet.#
-Item List you can craft#
- Create#
-'s materials#
- item creation failed.#
- item created successfully.#
-Failed to create %s.#
-Successfully created %s.#
-You are not the required lvl.#
-Too high lvl for this job.#
-Not the suitable job for this type of work.#
-Record a message in the Talkie Box#
-Please type a message for the Talkie Box#
-Send to Guild#
-You didn't pay for this ID. Would you like to pay for it now?#
-Server is jammed due to overpopulation. Please try again after few minutes.#
-Server still recognizes your last log-in. Please try again after a few minutes.#
-Release Falcon#
-Dismount#
-Small#
-Medium#
-Large#
-Double#
+Agua#
+Tierra#
+Fuego#
+Viento#
+Veneno#
+Sagrado#
+Sombras#
+Fantasma#
+No-muerto#
+No puedes crear Items aun.#
+Lista de Items que puedes Diseñar#
+ Crear#
+ materiales#
+ creación de item Exitosa.#
+ creación de item Fallida.#
+Falló al crear %s.#
+Creado con éxito %s.#
+No tienes suficiente Nivel.#
+Demasiado nivel para este Job.#
+No es la Clase adecuada para este tipo de trabajo.#
+Guardar mensajes en Talkie Box#
+Por favor, escribe un mensaje en Talkie Box#
+Enviar al Gremio#
+No pagaste por este ID. ¿Te gustaría pagarlo ahora?#
+El servidor esta saturado en estos momentos. Inténtalo de nuevo en unos minutos.#
+El servidor aun reconoce tu última conexión. Inténtalo de nuevo en unos minutos.#
+Retira tu Halcón#
+Desmontar#
+Pequeño#
+Mediano#
+Grande#
+Doble#
 Triple#
-Quadruple#
-You are prohibited to log in until %s.#
+Cuadruple#
+Tienes prohibida la sesión hasta dentro de %s.#
 's #
-'s Fire #
-'s Ice #
-'s Wind #
-'s Earth #
+ de Fuego #
+ de Hielo #
+ de Viento #
+ de Tierra #
 211.239.161.246#
 6900#
 http://www.ragnarok.co.kr#
-Kill %s#
-Very Strong #
-Very Very Strong #
-Very Very Very Strong #
-The Reason of Expulsion#
- Attack speed increased.#
- Attack speed decreased.#
- Weapon damage is improved.#
- Weapon damage is reduced.#
- Cast delay is reduced.#
- Cast delay has returned to normal.#
- Weapon is temporarily enchanted with Poison.#
- Weapon is temporarily enchanted with Holy element.#
- Weapon has changed back to normal.#
- Armor is temporarily enchanted with Holy element.#
- Armor has changed back to normal.#
-Barrier formed.#
-Barrier canceled.#
- Weapon Perfection Initiated.#
- Weapon perfection Canceled.#
- Power-Thrust Initiated.#
- Power-Thrust Canceled.#
- Maximize-Power Initiated.#
- Maximize-Power Canceled.#
-[New Server]#
-(%d players)#
-(On the maintenance)#
-Guild member %s has connected.#
-Guild member %s has disconnected.#
-You got %d Base exp.#
-You got %d Job exp.#
-You left the guild.#
-You have been expelled from the Guild.#
-Item appraisal has completed successfully.#
-Item appraisal has failed.#
-Compounding has completed successfully.#
-Compounding has failed.#
-Antagonist has been set.#
-Guild has too many Antagonists.#
-Already set as an Antagonist#
-Upgrade success!!#
-Upgrade failed!!#
-Unavailable Area to Teleport#
-Unable to memorize this place as Warp Point#
-Please wait 10 seconds before trying to log out.#
-Position#
+Matar a %s#
+Muy Fuerte #
+Demasiado Fuerte #
+Extremadamente Fuerte #
+Razón de la Expulsión#
+ Velocidad de Ataque dumentada.#
+ Velocidad de Ataque disminuida.#
+ Daño de Arma aumentado.#
+ Daño de Arma reducido.#
+ Tiempo de casteo reducido.#
+ Tiempo de casteo vuelve a ser normal.#
+ El Arma ha sido encantada temporalmente con Elemento Veneno.#
+ El Arma ha sido encantada temporalmente con Elemento Sagrado.#
+ El Arma vuelve a la normalidad.#
+ La Armadura ha sido encantada temporalmente con Elemento Sagrado.#
+ La Armadura vuelve a la normalidad.#
+Barrera formada.#
+Barrera cancelada.#
+ Weapon Perfection Iniciado.#
+ Weapon perfection Cancelado.#
+ Power-Thrust Iniciado.#
+ Power-Thrust Cancelado.#
+ Maximize-Power Iniciado.#
+ Maximize-Power Cancelado.#
+[Servidor Nuevo]#
+(%d jugadores)#
+(En mantenimiento)#
+El miembro del Gremio %s se ha conectado.#
+El miembro del Gremio %s se ha desconectado.#
+Ganas %d de EXP de Base.#
+Ganas %d de EXP de Job.#
+Dejas el Gremio.#
+Has sido expulsado del Gremio.#
+La identificación del Item se ha completado.#
+La identificación del Item ha fallado.#
+La composición se ha completado exitosamente.#
+La composición ha fallado.#
+Antagonista seleccionado.#
+El Gremio tiene demasiados Antagonistas.#
+Ya está seleccionado como Antagonista#
+¡¡Mejora exitosa!!#
+¡¡Mejora fallida!!#
+No puedes Teletransportarte en esta Área#
+No puedes memorizar un portal en esta Área#
+Espere 10 segundos antes de intentar cerrar sesión.#
+Rango#
 Job#
-Note#
-Devotion#
-Tax Point#
-Leave Guild#
-Expel#
-Rank#
-Position Title#
-Invitation#
-Punish#
-Tax %#
-Title#
-Contents#
-Guild Name#
-Guild Lvl#
-Guildsmen#
+Nota#
+Total#
+Impuestos#
+Dejar Gremio#
+Expulsión#
+Rango#
+Título del Rango#
+Invitación#
+Castigos#
+Impuesto %#
+Título#
+Contenido#
+Nombre del Gremio#
+Nivel del Gremio#
+Gente#
 Ranking#
-Item Appraisal#
-Insert Card#
-Please enter the reason of Secession.#
-Please enter the reason of Expulsion.#
-Please close Shop.#
+Identificación de Items#
+Insertar Card en#
+Por favor, escriba la razón de la Secesión.#
+Por favor, escriba la razón de la Expulsión.#
+Por favor, cierre la Tienda.#
 Skill #
-Item Name#
+Nombre del Item#
 https://pay.ragnarok.co.kr (Billing Web)#
-IP capacity of this Internet Cafe is full. Would you like to pay the personal base?#
-You are out of available paid playing time. Game will be shut down automatically.#
-Name is too long. Please enter a name no greater than 23 english characters.#
-deleted#
-You paid with the personal regular base.#
-You paid with the personal regular base. Available time is xx hrs xx mins xx secs.#
-You are free!#
-You are free for the test, your available time is xx hrs xx mins xx secs.#
-You paid with the Internet Cafe regular base. Available time is xx hrs xx mins xx secs.#
-You paid with the Time Limit for Internet Cafe. Available time is xx hrs xx mins xx secs.#
-You are free for the test of Internet Cafe version .#
-You are free for the Internet Cafe version.#
-You paid on the Time Limit Website.#
-Emotion icon List#
+La capacidad del IP de este cibercafé ha sido excedida. ¿Te gustaría pagar por un plan personal?#
+Se acabó el tiempo de juego pagado disponible. El juego se cerrará automáticamente.#
+El nombre es demasiado largo. Ingrese un nombre que no tenga más de 23 caracteres en inglés.#
+eliminado#
+Pagaste un plan regular personal.#
+Pagaste un plan regular personal. El tiempo disponible es xx hrs xx minutos xx segundos.#
+¡Eres libre ahora!#
+Usted está habilitado para una prueba gratuita, su tiempo disponible es xx hrs xx minutos xx segundos.#
+Pagaste por un plan regular de cibercafé. El tiempo disponible es xx hrs xx minutos xx segundos.#
+Pagó por un plan con límite de tiempo de cibercafé. El tiempo disponible es xx hrs xx minutos xx segundos.#
+Usted está habilitado para una prueba gratuita de cibercafé.#
+Usted está habilitado para una prueba gratuita de cibercafé.#
+Pagó en el sitio web el nuevo límite de tiempo.#
+Lista de Emoticonos#
 /emo#
 /!#
 /?#
@@ -572,135 +572,135 @@ Emotion icon List#
 /kis2#
 /pif#
 /ok#
-Shortcut List#
-Your account is suspended.#
-Your connection is terminated due to change in the billing policy. Please connect again.#
-Your connection is terminated because your IP doesn't match the authorized IP from the account server.#
-Your connection is terminated to prevent charging from your account's play time.#
-You have been forced to disconnect by the Game Master Team.#
-You can't use this Skill because you are over your Weight Limit.#
-Nameless#
-Congratulations! %s's rank has gone up to %d.#
-What a pity! %s's rank has gone down to %d.#
-Pet Info#
-Hunger#
-Intimacy#
-Please avoid opening a chatroom while vending.#
+Lista de Comandos#
+Tu cuenta está suspendida.#
+Error del sistema, Desconectado del servidor.#
+Conflicto de IP, Desconectado del servidor.#
+Recuerda Actualizar tu Ragnarok. sino podrías tener problemas con algunos Sprites.#
+Has sido forzado a desconectar por un GM.#
+No puedes usar Skills porque vas con sobrepeso.#
+Sin Nombre#
+¡Felicidades! La posición de %s ha aumentado a %d.#
+¡Que mal! La posición de %s ha bajado a %d.#
+Información del Pet#
+Hambre:#
+Afecto:#
+No puedes abrir Salas de Chat mientras vendes.#
 ea#
-You have knocked down %s.#
-You have been knocked down by %s.#
-Pet food '%s' is not available.#
-Feed Pet#
-Performance#
-Return to Egg#
-Unequip Accessory#
-Check Pet Status#
-Accessory#
-Equipped#
-Pet List#
-Unequipped#
-Are you sure that you want to feed your pet?#
-Only the numbers (0~9) are available.#
-You cannot sell unidentified items.#
-Item at 0 Zeny exists. Do you wish to continue?#
-[New Emotion List]#
+Has vencido a %s.#
+Has sido vencido por %s.#
+Este Pet se alimenta de '%s' necesitas con seguir más.#
+Alimentar#
+Acción#
+Devolver al Huevo#
+Quitar Accesorio#
+Consulta Estado del Pet#
+Accesorio:#
+Equipado#
+Lista de Pet#
+Desequipado#
+¿Quieres alimentar a tu pet?#
+Solo están disponibles los números del (0~9).#
+No puedes vender Items sin identificar.#
+¡Atención! hay Item a 0 Zeny. ¿Deseas continuar?#
+[Nueva Lista de Emoticonos]#
 N/A#
 N/A#
-Character in the same account already joined.#
-(%d ppl) - over the age 18#
- Provoke initiated.#
- Provoke canceled.#
- Endure initiated.#
- Endure canceled.#
- Improve Concentration initiated.#
- Improve Concentration canceled.#
- Hiding initiated.#
- Hiding canceled.#
- Cloaking initiated.#
- Cloaking canceled.#
- Poison React initiated.#
- Poison React canceled.#
- Movement speed reduced.#
- Quagmire canceled.#
- Defense increased.#
- Angelus canceled.#
- Str, Int and Dex increased.#
- Blessing canceled.#
- Signum Crusis initiated.#
- Signum Crusis canceled.#
- Slow Poison initiated.#
- Slow Poison canceled.#
-SP regeneration increased.#
-Magnificat canceled.#
-Luk increased.#
-Gloria canceled.#
- You will receive double damage from 1 attack.#
- Lex Eterna canceled.#
- Attack speed increased.#
- Attack speed reduced.#
- You just mounted a Pecopeco.#
- You just dismounted a Pecopeco.#
- You just carried a Falcon with.#
- You just released a Falcon.#
- Play Dead initiated.#
- Play Dead canceled.#
- Str increased.#
- Str turned back to normal.#
- Energy Coat initiated.#
- Energy Coat canceled.#
- Armor damaged.#
- Armor repaired.#
- Weapon damaged.#
- Weapon repaired.#
- Invisibility initiated.#
- Invisibility canceled.#
-Sorry. It is delayed due to the process of payment. Please re-connect in a minute.#
-You must unequip ammunition first.#
-Arrow list#
-Cart list#
-You must have a cart.#
-You cannot open a Chat Window.#
-Registering an account is the first step to accessing the game. Do you want to visit the registration page now?#
-You cannot use this item while sitting.#
-Your use of skills and chat will be blocked for the next %d minutes.#
-Your use of skills and chat have been reinstated.#
-- [Not equipped]#
- Very Hungry#
- Hungry#
- Neutral#
- Satisfied#
- Stuffed#
- Awkward#
- Shy#
- Cordial#
- Loyal#
-Unknown#
-Your account has play time of %d day %d hour %d minute.#
-Your account is already connected to account server.#
-Your account has play time of %d hour %d minute.#
-Your account is a free account.#
-This account can't connect the Sakray server.#
-Your pet name must be 23 characters or less.#
-You may change your pet's name only once. Your pet's name will be changed to ^0000ff %s^000000.  Do you wish to continue?#
+Ya hay un personaje de la misma cuenta.#
+(%d gente) - mayores de edad#
+ Provoke iniciado.#
+ Provoke cancelado.#
+ Endure iniciado.#
+ Endure cancelado.#
+ Improve Concentration iniciado.#
+ Improve Concentration cancelado.#
+ Hiding iniciado.#
+ Hiding cancelado.#
+ Cloaking iniciado.#
+ Cloaking cancelado.#
+ Poison React iniciado.#
+ Poison React cancelado.#
+ Velocidad de Movimiento reducida.#
+ Quagmire cancelado.#
+ Defensa aumentada.#
+ Angelus cancelado.#
+ Str, Int y Dex aumentada.#
+ Blessing cancelado.#
+ Signum Crusis iniciado.#
+ Signum Crusis cancelado.#
+ Slow Poison iniciado.#
+ Slow Poison cancelado.#
+Recuperación de SP aumentada.#
+Magnificat cancelado.#
+Luk aumentado.#
+Gloria cancelado.#
+ Todos los ataques enemigos te haran el doble de daño.#
+ Lex Eterna cancelado.#
+ Velocidad de Ataque aumentada.#
+ Velocidad de Ataque reducida.#
+ Acabas de subir al Pecopeco.#
+ Acabas de bajar del Pecopeco.#
+ Acabas de llamar a tu Halcón.#
+ Acabas de retirar a tu Halcón.#
+ Play Dead iniciado.#
+ Play Dead cancelado.#
+ Str aumentado.#
+ Str ha vuelto a la normalidad.#
+ Energy Coat iniciado.#
+ Energy Coat cancelado.#
+ Armadura dañada.#
+ Armadura reparada.#
+ Arma dañada.#
+ Arma reparada.#
+ Invisibility iniciado.#
+ Invisibility cancelado.#
+Desconectado del servidor. Ha ocurrido un problema al procesar la información. Por favor, vuelve a conectar en unos minutos.#
+Debes desequiparte las municiones primero.#
+Lista de Flechas#
+Lista de Carros#
+Necesitas un Carro.#
+No puedes abrir ventanas de Chat.#
+Registrar una cuenta es el primer paso para acceder al juego. ¿Quieres visitar la pagina de registro ahora?#
+No puedes usar el Item sentado.#
+El uso de Skills y Chat han sido bloqueados durante los próximos %d minutos.#
+El uso de Skills y Chat han sido restablecidos.#
+- [Desequipado]#
+ Muy Hambriento#
+ Hambriento#
+ Normal#
+ Satisfecho#
+ Lleno#
+ Incómodo#
+ Timido#
+ Amigable#
+ Leal#
+Desconocido#
+Si ves este mensaje, por favor borra todo y reinstala la carpeta de Ragnarok Online.#
+Esta cuenta ya está conectada con el Servidor.#
+Si ves este mensaje, por favor borra todo y reinstala la carpeta de Ragnarok Online.#
+Tu cuenta es una cuenta gratuita.#
+Si ves este mensaje, por favor borra todo y reinstala la carpeta de Ragnarok Online.#
+El nombre no puede tener más 23 caracteres.#
+¡Solo puedes ponerle Nombre una vez! El Nombre de tu pet será ^0000ff %s^000000. ¿Estás seguro?#
 /font#
-Your guild lacks the funds to pay for this venture.#
-Your guild zeny limit prevents you from performing this action.#
-Simplified effects have been activated.#
-Simplified effects have been deactivated.#
-Required Fee#
-If you wish to drop an item, you must first open your Item Window (alt+e).#
-Internet Cafe Time Plan has been ended. Would you like to continue the game with your personal play time?#
+A tu Gremio no le quedan suficientes fondos.#
+Tu Gremio excede la cantidad máxima de Zeny permitida.#
+Efectos Activados.#
+Efectos Desactivados.#
+Fianza#
+Para tirar un Item tienes que arrastrarlo fuera desde la ventana de Objetos (alt+e).#
+Si ves este mensaje, por favor borra todo y reinstala la carpeta de Ragnarok Online.#
 #
 #
-You're lack of zeny or your zeny limit have prevented you from performing this action.#
-Your character has fainted. Push the ESC key to restart.#
- - %d obtained.#
-Spell List#
+No tienes suficiente Zeny o has excedido el limite de Zeny permitido.#
+¡Has Muerto! Pulsa ESC para regresar al Punto de Guardado.#
+ - %d obtenido.#
+Lista de Hechizos#
 /minimize#
-This item has been damaged.#
-/noshift: You may use your ''force heal'' ability without the Shift key. On | Off#
-[no shift] option activated. [ON]#
-[no shift] option deactivated. [OFF]#
+El Item se ha dañado.#
+/noshift: Puedes usar tu ''fuerza sanadora'' sin pulsar la tecla Shift. On | Off#
+[no shift] opción activada. [ON]#
+[no shift] opción desactivada. [OFF]#
 MSI_REFUSE_BAN_BY_DBA#
 MSI_REFUSE_EMAIL_NOT_CONFIRMED#
 MSI_REFUSE_BAN_BY_GM#
@@ -708,37 +708,37 @@ MSI_REFUSE_TEMP_BAN_FOR_DBWORK#
 MSI_REFUSE_SELF_LOCK#
 MSI_REFUSE_NOT_PERMITTED_GROUP#
 MSI_REFUSE_WAIT_FOR_SAKRAY_ACTIVE#
-/aura: Simplify Aura effect On | Off#
-Simplified Aura [OFF]#
-Simplified Aura [ON]#
-Chat block record %d times#
-Chat block list#
-/showname: Change the name font type.#
-/noctrl | /nc: Auto attack without pressing ctrl key. On | Off#
-Use auto attack without Ctrl. [Auto attack ON]#
-Use auto attack with Ctrl. [Auto attack OFF]#
-Mute this player.#
-Unmute player & Erase mute time.#
-Decrease Player Mute time.#
-Normal Font Displayed. [showname type 1]#
-Font will be thin and party name will be shown [showname type 2]#
-/doridori: Shake head#
+/aura: Efecto de Aura On | Off#
+Aura [OFF]#
+Aura [ON]#
+Se bloqueo el registro de Chat %d veces#
+Lista de bloqueados#
+/showname: Cambia el tipo de letra del nombre.#
+/noctrl | /nc: Ataque Automático sin pulsar la tecla Ctrl. On | Off#
+Usar Ataque Automático sin pulsar la tecla Ctrl. [ON]#
+Usar Ataque Automático sin pulsar la tecla Ctrl. [OFF]#
+Silenciar a este jugador.#
+Dejar de silenciar al jugador y borrar el tiempo de silencio.#
+Disminuir el tiempo de silencio del jugador.#
+Fuente normal mostrada. [showname type 1]#
+Muestra el nombre del grupo cuando la fuente está en modo normal [showname type 2]#
+/doridori: Agita la cabeza#
 Internet cafe is paying now.#
 Prepaid voucher validate until %d days %d hours %d minutes later.\nTime limit voucher validate untill %d hours %d minutes later.#
-/bingbing: Rotates player counter clockwise.#
-/bangbang: Rotates player clockwise.#
-/skillfail: Display red font message when skill fails. On | Off#
-Skill fail messages will be displayed. [Display On]#
-Skill fail messages will not be displayed. [Display OFF]#
-/notalkmsg: Chat will not be displayed in chat window. On | Off#
-Chat content will be displayed in the chat window. [Display ON]#
-Chat content will not be displayed in the chat window. [Display OFF]#
+/bingbing: Rota al jugador en sentido antihorario.#
+/bangbang: Rota al jugador en sentido horario.#
+/skillfail: Mostrar mensaje de fuente roja cuando falla la Skill. On | Off#
+Se mostrarán mensajes de error de Skill. [On]#
+Los mensajes de error de Skill no se mostrarán. [OFF]#
+/notalkmsg: El chat no se mostrará en la ventana de chat. On | Off#
+El contenido del chat se mostrará en la ventana de chat. [ON]#
+El contenido del chat no se mostrará en la ventana de chat. [OFF]#
 /set1: /noctrl + /showname + /skillfail#
-/fog: Fog effect. On | Off#
-You have received a marriage proposal. Do you accept?#
-Item sharing type#
-Individual#
-Shared#
+/fog: Efecto de niebla. On | Off#
+Has recibido una propuesta de matrimonio. ¿Aceptas?#
+Distribución de Items#
+Individualmente#
+Compartido#
 nProtect KeyCrypt#
 Keyboard Driver has been detected. \n\nDo you want to install a program for keyboard security?    \n\n(After installation, System Reboot is required)#
 Installation has been completed.  \n\nSystem will be rebooted.#
@@ -754,21 +754,21 @@ NPX.DLL register error or there is no necessary file to run FindHack. Please dow
 Exceptional Error. Please contact the customer support. Return Value: (%d)#
 Exit button has been clicked.#
 Unable to connect Findhack Update Server. Please try again or contact the customer support.#
-Beloved #
-/report: Save a chat log file.#
-Chat logs are not accepted as evidence for any ill-mannered violation on account of possible file modifications. However this feature is provided for players' personal reference.#
-I love you.#
-Please adjust your monitor/video brightness if effects appear too bright.#
-If full screen mode fails to work, it is suggested you alt+tab [or ctrl+esc] to inactivate and reactivate the Ragnarok Client.#
-(%d players) - Pay to Play Server#
-(%d players) - Free Server#
-Trial players can't connect Pay to Play Server.#
-Right click menu skills for F9 are Enabled.[/q1 ON]#
-Right click menu skills for F9 are Disabled.[/q1 OFF]#
-/quickspell: Right-click menu enables you to use skills assigned to the F9 hotkey. On | Off#
-Mouse wheel skills for F7 and F8 are Enabled.[/q2 ON]#
-Mouse wheel skills for F7 and F8 are Disabled.[/q2 OFF]#
-/quickspell2: By rolling the mouse wheel up and down, you are able to use skills registered on F7 and F8 hotkeys. On | Off#
+Domesticado #
+/report: Guardar un archivo de registro de chat.#
+Este documento puede ser utilizado por los GMs \n como prueba de acciones malintencionadas de los jugadores. \n El documento no será válido si se guarda en otro formato o su contenido es modificado.#
+¡Te quiero!#
+Por favor, ajusta el brillo de tu monitor si los efectos de pantalla son demasiado brillantes.#
+Si el modo de pantalla completa no funciona, se sugiere alt+tab [o ctrl+esc] para desactivar y reactivar el Cliente Ragnarok.#
+(%d jugadores) - Servidor Pay to Play#
+(%d jugadores) - Servidor Gratuito#
+Los jugadores de prueba no pueden conectar Pay to Play Server.#
+Usar la skill de F9 con el botón derecho activado.[/q1 ON]#
+Usar la skill de F9 con el botón derecho desactivado.[/q1 OFF]#
+/quickspell: Usando el botón derecho del ratón, permite usar Skills e Items asignados a la tecla F9. On | Off#
+Usar las skills de F7 y F8 con la rueda del ratón activado.[/q2 ON]#
+Usar las skills de F7 y F8 con la rueda del ratón desactivado.[/q2 OFF]#
+/quickspell2: Usando la rueda del ratón, permite usar Skills e Items asignados a las teclas F7 y F8. On | Off#
 /q3: /quickspell (/q1) + /quickspell2 (/q2)#
 /bzz#
 /rice#
@@ -782,26 +782,26 @@ Mouse wheel skills for F7 and F8 are Disabled.[/q2 OFF]#
 /yawn#
 /grat#
 /hp#
-/emotion: views the emoticon list.#
-Skills assigned to shortcut windows 1, 2, 3 are Enabled. [/bm ON]#
-Skills assigned to shortcut windows 1, 2, 3 are Disabled. [/bm OFF]#
-/battlemode: allows you to use skills assigned to Shortcut Window 2 by pressing Q ~ O keys.#
-A ~ L keys allow you to use skills assigned to Shortcut Window 3.#
-Please remember, programs running in the background while playing may affect the game's performance.#
-Dear angel, can you hear my voice?#
-I am#
+/emotion: Ve la lista de emoticones.#
+Las skills asignadas a las barras de acceso rápido 1, 2, 3 están activadas. [/bm ON]#
+Las skills asignadas a las barras de acceso rápido 1, 2, 3 están desactivadas. [/bm OFF]#
+/battlemode: le permite usar las skills asignadas a la barra de acceso rápido 2 pulsando las teclas Q ~ O.#
+Las teclas A ~ L le permiten usar las skills asignadas a la barra de acceso rápido 3.#
+Recuerda que los programas que se ejecutan en segundo plano mientras juegas pueden afectar el rendimiento del juego.#
+Querido ángel, ¿Puedes oír mi voz?#
+Sí, lo hago.#
 Super Novice~#
-Help me out~ Please~ T_T#
- wishes to adopt you. Do you accept?#
-Z ~ > keys allow you to use skills assigned on shortcut window 1. On | Off#
-Press the space bar to Chat when in Battle mode [/battlemode | /bm].#
-'Either there's no Game Guard installed on the program or Game Guard is cracked. Please, try to reinstall Game Guard from its setup file.'#
-Some of Windows system files have been damaged. Please re-install your Internet Explorer.#
-'Failed to run Game Guard. Please, try to reinstall Game Guard from its setup file.'#
-'At least one hazardous program has been detected. Please, terminate all the unnecessary programs before executing Game Guard.'#
-'Game Guard update is canceled. If the disconnection continues, please, check your internet or firewall settings.'#
-'Failed to connect to Game Guard update server. Try to connect again later, or try to check the internet or firewall settings.'#
-'Can't complete Game Guard update process. Please, try to execute a vaccine program to remove viruses. Or, please try to modify the settings of your PC managing tool if you are using any.'#
+Ayúdame~ Por favor~ T_T#
+ desea adoptarte. ¿Aceptas?#
+Z ~ > las teclas le permiten usar las skills asignadas en la barra de acceso rápido 1. On | Off#
+Pulsa la barra espaciadora para chatear cuando estés en modo Batalla [/battlemode | /bm].#
+Los archivos de actualización no están o están corruptos. Por favor, reinstala el cliente del servidor.#
+Algunos de los archivos del sistema de Windows han sido dañados. Vuelva a instalar su Internet Explorer.#
+Error al actualizar. Reinicia el Juego.#
+'Programas ilegales detectados. Deten la ejecución de todos los programas innecesarios y reinicia el juego.'#
+'Error de conexión. Comprueba tu conexión a Internet y la configuración de tu Firewall.'#
+'Error de conexión. Comprueba tu conexión a Internet y la configuración de tu Firewall.'#
+'Error. Comprueba si tu sistema ha sido infectado por algún virus, si estas usando programas de mantenimiento desactívalos antes de ejecutar el juego.'#
 /notrade: Declines trade offers automatically. On | Off#
 Auto decline trade offers has been Enabled. [/nt ON]#
 Auto decline trade offers has been Disabled. [/nt OFF]#
