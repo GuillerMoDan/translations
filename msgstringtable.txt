@@ -235,7 +235,7 @@ La skill ha fallado porque no tienes suficiente zeny.#
 Selecciona un objetivo.#
 /pk on: Activa el modo PK. /pk off: Desactiva el modo PK.#
 Tienda#
-Objetos del carro [Alt+W]#
+Items del carro [Alt+W]#
 Información básica#
 No puedes usar la skill con esa Arma.#
 La compra de %s ha fallado. Agotado. Productos disponibles %d.#
