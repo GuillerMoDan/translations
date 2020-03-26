@@ -1,7 +1,7 @@
 ¿Estás de acuerdo?#
 Error al conectar con el Servidor.#
 Desconectado del Servidor.#
-Desconectado del Servidor!#
+Desconectado del Servidor.#
 Servidor Cerrado.#
 Alguien ha iniciado sesión con esta ID.#
 ID de Usuario no registrada. Asegúrese de tener una cuenta registrada y de haber ingresado correctamente la ID de Usuario.#
@@ -802,63 +802,63 @@ Error al actualizar. Reinicia el Juego.#
 'Error de conexión. Comprueba tu conexión a Internet y la configuración de tu Firewall.'#
 'Error de conexión. Comprueba tu conexión a Internet y la configuración de tu Firewall.'#
 'Error. Comprueba si tu sistema ha sido infectado por algún virus, si estas usando programas de mantenimiento desactívalos antes de ejecutar el juego.'#
-/notrade: Declines trade offers automatically. On | Off#
-Auto decline trade offers has been Enabled. [/nt ON]#
-Auto decline trade offers has been Disabled. [/nt OFF]#
-You cannot buy more than 30,000ea items at once.#
-You do not have enough ingredients.#
-Login information remains at %s.#
-Account has been locked for a hacking investigation. Please contact the GM Team for more information.#
-This account has been temporarily prohibited from login due to a bug-related investigation.#
-Repairable items#
-Item has been successfully repaired.#
-You have failed to repair this item. Please check the distance between you and opponent.#
-System process enabled [GM mode] [/sc ON]#
-System process disabled [GM mode] [/sc OFF]#
-/systemcheck: Check the system process [GM mode] On | Off#
-(%s) wishes to be friends with you. Would you like to accept?#
-Your Friend List is full.#
-(%s)'s Friend List is full.#
-You have become friends with (%s).#
-(%s) does not want to be friends with you.#
-This character will be blocked to use until %s.#
-Price will be fixed at 10,000,000 zeny, even if you enter higher price.#
-(Very low)#
-(Low)#
+/notrade: Rechaza ofertas comerciales automáticamente. On | Off#
+Habilitado el rechazo automático de ofertas comerciales. [/nt ON]#
+Desactivado el rechazo automático de ofertas comerciales. [/nt OFF]#
+No puede comprar más de 30,000 items a la vez.#
+No tienes suficientes materiales.#
+Se ha guardado la Información de la Cuenta %s.#
+No se puede acceder debido a un problema de Hacking. Para más detalles consulte la Web y el Foro.#
+No se puede acceder debido a un Error del Sistema.#
+Items Reparables#
+El Item ha sido reparado con éxito.#
+No ha podido reparar este item. Por favor verifique la distancia entre usted y su oponente.#
+Estado del Sistema activado [GM mode] [/sc ON]#
+Estado del Sistema desactivado [GM mode] [/sc OFF]#
+/systemcheck: ¿Deseas examinar el estado del sistema? [GM mode] On | Off#
+(%s) quiere ser tu Amigo, ¿Aceptas?#
+No puedes añadir mas Amigos.#
+(%s) no tiene espacio para añadir mas Amigos.#
+Te has hecho Amigo de (%s).#
+(%s) no quiere ser tu Amigo.#
+Este personaje ha sido bloqueado hasta %s.#
+El precio se fijará en 10,000,000 zeny, incluso si ingresa un precio más alto.#
+(Desierto)#
+(Vacío)#
 (Normal)#
-(High)#
-(Very high)#
-You have been blocked from using chat and skills for %d minutes by the GM Team.#
-%d minutes remain until release from the GM penalty.#
-You have been released from the GM penalty.#
-You have been blocked from using chat and skills for %d as an automatic penalty.#
-%d minutes remain until release from auto penalty.#
-You have been released from the auto penalty. Please refrain from spamming in-game.#
-%s and %s have divorced from each other.#
-%s has been designated as Gravity %s's Solar Space.#
-%s has been designated as Gravity %s's Luna Space.#
-%s has been designated as Gravity %s's Stellar Space.#
-Gravity %s's Solar Space: %s#
-Gravity %s's Luna Space: %s#
-Gravity %s's Stellar Space: %s#
-%s has been designated as Gravity %s's Solar Monster.#
-%s has been designated as Gravity %s's Luna Monster.#
-%s has been designated as Gravity %s's Stellar Monster.#
-Gravity %s's Solar Monster: %s#
-Gravity %s's Luna Monster: %s#
-Gravity %s's Stellar Monster: %s#
-/window: Display windows will snap/dock together. On | Off#
-Display window docking enabled. [/wi ON]#
-Display window docking disabled. [/wi OFF]#
-/pvpinfo: shows your PVP result and PVP points.#
-You have won %d times and have lost %d times in PVP. Current points %d.#
-A manner point has been successfully aligned.#
-You are in a PK area. Please beware of sudden attack.#
-Game Guard update has been failed when either Virus or Spyware conflicted with. Please, Uninstall Spyware and Virus protection program before you log in.#
-Program has encountered an error related to Windows compatibility. Please start the game again.#
-You have been blocked from chatting, using skills and items.#
-Login is temporarily unavailable while this character is being deleted.#
-Login is temporarily unavailable while your spouse character is being deleted.#
+(Lleno)#
+(Saturado)#
+Un GM te ha bloqueado el habla durante %d minuto(s) por conducta inapropiada.#
+Quedan %d minuto(s) hasta que finalice el castigo.#
+El castigo ha finalizado. Por favor, procure no volver a infringir las normas.#
+Se te han bloqueado automáticamente las skills y chat durante %d minuto(s)#
+Quedan %d minuto(s) hasta que finalice el castigo automático.#
+Se te ha levantado el castigo automático. Por favor, procura no repetirte ni molestar a los demas.#
+%s se ha divorciado de %s.#
+El Star Gladiator %s ha designado %s como el Lugar del Sol.#
+El Star Gladiator %s ha designado %s como el Lugar de la Luna.#
+El Star Gladiator %s ha designado %s como el Lugar de las Estrellas.#
+Lugar del Sol del Star Gladiator %s : %s#
+Lugar de la Luna del Star Gladiator %s : %s#
+Lugar de las Estrellas del Star Gladiator %s : %s#
+El Star Gladiator %s ha designado %s como el Monstruo del Sol.#
+El Star Gladiator %s ha designado %s como el Monstruo de la Luna.#
+El Star Gladiator %s ha designado %s como el Monstruo de las Estrellas.#
+Monstruo del Sol del Star Gladiator %s : %s#
+Monstruo de la Luna del Star Gladiator %s : %s#
+Monstruo de las Estrellas del Star Gladiator %s : %s#
+/window: Las ventanas se ajustarán/acoplarán entre ellas. On | Off#
+Ventana de acoplamiento activada. [/wi ON]#
+Ventana de acoplamiento deshabilitada. [/wi OFF]#
+/pvpinfo: Muestra sus resultados PVP y puntos PVP.#
+Estado actual: %d Victorias, %d Derrotas. Tu puntuación en PVP es de %d#
+El punto de moral se te ha transferido satisfactoriamente.#
+Estás en un área PK. Cuidado con los ataques repentinos.#
+Game Guard no ha sido actualizado o existe un problema causado por un virus o spyware que ha provocado un fallo en el sistema. Por favor, ejecuta un antivirus para reparar tu sistema.#
+El sistema ha encontrado un error relacionado con la compatibilidad de Windows. Por favor, vuelva a iniciar el juego.#
+Se te ha bloqueado el chat, las skills e inventario.#
+El inicio de sesión no está disponible temporalmente mientras se elimina este personaje.#
+El inicio de sesión no está disponible temporalmente mientras se elimina el personaje de su cónyuge.#
 Novice#
 Swordman#
 Mage#
@@ -885,20 +885,20 @@ Wizard#
 Blacksmith#
 Hunter#
 Assassin#
-Send an adoption request to %s#
-When you become a child, you will be unable to become a Transcendent Class character, all stats will be limited to a maximum of 80, and Max HP/SP will be reduced. Are you sure that you want to be adopted?#
-All abnormal status effects have been removed.#
-You will be immune to abnormal status effects for the next minute.#
-Your Max HP will stay increased for the next minute.#
-Your Max SP will stay increased for the next minute.#
-All of your Stats will stay increased for the next minute.#
-Your weapon will remain blessed with Holy power for the next minute.#
-Your armor will remain blessed with Holy power for the next minute.#
-Your Defense will stay increased for the next 10 seconds.#
-Your Attack strength will be increased for the next minute.#
-Your Accuracy and Flee Rate will be increased for the next minute.#
-You cannot adopt more than 1 child.#
-You must be at least character level 70 in order to adopt someone.#
+Enviar una solicitud de adopción a %s#
+Cuando te conviertas en un niño, no podrás convertirte en un personaje de Transcendent Class, todas las estadísticas se limitarán a un máximo de 80 y se reducirá el HP/SP máximo. ¿Estás seguro de que quieres ser adoptado?#
+Todos los estados alterados han sido curados.#
+Será inmune a los estados alterados durante el próximo minuto.#
+Su HP Máximo se mantendrá aumentado durante el próximo minuto.#
+Su SP máximo se mantendrá aumentado durante el próximo minuto.#
+Todas sus Stats se mantendrán aumentadas durante el próximo minuto.#
+Tu Arma seguirá bendecida con elemento sagrado durante el próximo minuto.#
+Tu Armadura seguirá bendecida con elemento sagrado durante el próximo minuto.#
+Tu Defensa permanecerá aumentada durante los próximos 10 segundos.#
+Tu Fuerza de Ataque aumentará durante el próximo minuto.#
+Su Precisión y Tasa de Huida se incrementarán durante el próximo minuto.#
+No puede adoptar más de 1 niño.#
+Requieres ser nivel 70 o superior para adoptar un hijo.#
 [Point] You have been rewarded with %d Blacksmith rank points. Your point total is %d.#
 [Point] You have been rewarded with %d Alchemist rank points. Your point total is %d.#
 Dear angel, can you hear my voice?#
