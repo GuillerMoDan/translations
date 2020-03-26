@@ -213,12 +213,12 @@ Velocidad Disminuída.#
 Lugar Aleatorio#
 Selecciona un lugar para Teletransportarse#
 Nivel de skill insuficiente#
-No hay lugares memorizados (Memo Points).#
+No hay lugares Memorizados (Memo Points).#
 No has aprendido Teletransportación.#
 Punto de Teletransportación guardado.#
 Cancelar#
 Hay un retraso entra una skill y la siguiente#
-Límite de capacidad máxima, tienes demasiados items..#
+Límite de capacidad máxima, tienes demasiados items.#
 Fuera de la capacidad máxima#
 Items del Carro#
 Quitar Carro#
@@ -232,7 +232,7 @@ Agotado#
 %s %d vendido.#
 Objetos disponibles para vender#
 La skill ha fallado porque no tienes suficiente zeny.#
-Selecciona un objetivo.#
+Selecciona un Objetivo.#
 /pk on: Activa el modo PK. /pk off: Desactiva el modo PK.#
 Tienda#
 Items del carro [Alt+W]#
@@ -243,7 +243,7 @@ Has sido desconectado debido a un desfase entre el servidor y tu.#
 Por favor equipate las municiones primero.#
 No puedes atacar o usar skills mientras tengas sobrepeso.#
 No puedes usar skills mientras tengas sobrepeso.#
-Municiones equipadas.#
+Municiones Equipadas.#
 Necesitas Red Gemstone.#
 Necesitas Blue Gemstone.#
 Fuerza#
@@ -309,8 +309,8 @@ No puedes usar skills ni atacar mientras tu peso supere el 90%.#
 Ahora tu HP/SP se recuperará con normalidad.#
 Ataque y Skills ya están disponibles.#
 Tu cliente no está actualizado o está mal instalado.#
-Items agotados.#
-Guardar chat en nota de texto#
+Items Agotados.#
+Guardar Chat en nota de texto#
 /savechat: Guarda el registro de chat#
 Registrarse#
 Rechazar Susurros#
