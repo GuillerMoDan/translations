@@ -183,8 +183,8 @@ Hay %d Jugadores Conectados Actualmente.#
  %d ea.#
 %s: %d ea.#
 %s %s: %d ea.#
-Items para vender#
-Tienda de items#
+Items para Vender#
+Tienda de Items#
 Lugar Desconocido#
 El lenguaje de tu cliente no se corresponde con el de nuestro Servidor.#
 Solo puedes mover items del inventario. Por favor, quítate el item primero o cierra la ventana de equipamiento.#
