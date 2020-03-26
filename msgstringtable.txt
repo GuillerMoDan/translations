@@ -46,12 +46,12 @@ Música Off#
 /inall: Permite susurros de cualquier jugador#
 /exall: Bloquea susurros de todos los jugadores#
 Haga clic derecho sobre un personaje y seleccione [ Registrar Amigo ] para añadirlo a su lista de amigos.#
-F12: Abre la barra de Acceso Rápido, donde puedes colocar objetos Consumibles, Equipamiento y Habilidades para acceder rápidamente a ellas.#
+F12: Abre la barra de Acceso Rápido, donde puedes colocar Consumibles, Equipamiento y Skills para acceder rápidamente a ellas.#
 No se puede escribir la misma palabra o frase, más de 3 veces.#
 El mensaje no se envió por contener lenguaje inapropiado.#
-No puede superponer objetos en la ventana.#
-No puedes cargar más objetos, porque estas con sobrepeso.#
-No puedes recoger ese objeto.#
+No puede superponer items en la ventana.#
+No puedes cargar más items, porque estas con sobrepeso.#
+No puedes recoger ese items.#
 El negocio se ha completado exitosamente.#
 No tienes suficiente zeny.#
 Has superado el límite de peso.#
@@ -68,7 +68,7 @@ Ya existe este chat.#
 El chat esta lleno.#
 Has sido expulsado de este chat.#
 El negocio ha sido cancelado.#
-Estás demasiado lejos para comerciar con ese jugador.#
+Estás demasiado lejos para negociar con ese jugador.#
 Ese personaje no esta conectado o no existe.#
 Está negociando con otra persona.#
 No puedes negociar con él, está con sobrepeso.#
@@ -164,86 +164,86 @@ No has aprendido las Skills Básicas para crear una Sala de Chat.#
 No has aprendido las Skills Básicas para crear un Party.#
 No has aprendido las Skills Básicas para gritar.#
 No has aprendido las Skills Básicas para pelear.#
-Items a comprar#
+Items a Comprar#
 Tienda de Items#
 Venta de Items#
 Storage#
  ha sido equipado.#
  ha sido desequipado.#
 Para añadir nombres a la Lista de Susurros#
-Para hacer Capturas de Pantalla: Pulsa [Print Screen] o [Scroll Lock]#
+Para hacer capturas de pantalla: Pulsa [Print Screen] o [Scroll Lock]#
 Consejo del día:#
 ^3850a0¿Sabias que ...?^709fed#
 Abrir al iniciar el Juego#
 /tip: Abre el ''Consejo del Día''#
 Hay %d Jugadores Conectados Actualmente.#
-(%s) ha Ingresado.#
+(%s) ha ingresado.#
 (%s) ha salido.#
 (%s) fue expulsado.#
  %d ea.#
 %s: %d ea.#
 %s %s: %d ea.#
 Items para vender#
-Tienda de Items#
+Tienda de items#
 Lugar Desconocido#
 El lenguaje de tu cliente no se corresponde con el de nuestro Servidor.#
 Solo puedes mover items del inventario. Por favor, quítate el item primero o cierra la ventana de equipamiento.#
 Este Servidor solo ofrece texto en Español.#
 Esto no se ha implementado aun.#
-Lista Susurros vacía.#
+Lista susurros vacía.#
 : Susurros bloqueados.#
-: Ha fallado el bloqueo de Susurros.#
-: Ha fallado el bloqueo de Susurros. La lista está llena.#
+: Ha fallado el bloqueo de susurros.#
+: Ha fallado el bloqueo de susurros. La lista está llena.#
 : Susurros aceptados.#
 : El comando ha fallado.#
 : El comando ha fallado. La lista está llena.#
-No escribas Espacios al principio o al final de un Nombre.#
+No agregues Espacios al principio o al final de un Nombre.#
 Privado#
 Publico#
 No tienes suficiente SP#
 No tienes suficiente HP#
-Ha Fallado la Skill.#
+Ha fallado la skill.#
 Steal ha fallado.#
-Comerciar#
+Negociar#
 Envenom no ha funcionado.#
 No puedes usar esa ID en este servidor.#
-Velocidad aumentada.#
-Velocidad disminuída.#
+Velocidad Aumentada.#
+Velocidad Disminuída.#
 /memo: Memoriza este lugar como punto de Teletransporte (Si eres Acolyte)#
 Lugar Aleatorio#
-Selecciona un Lugar para Teletransportarse#
-Nivel de Skill insuficiente#
-No hay Lugares Memorizados (Memo Points).#
-No has Aprendido Teletransportación.#
+Selecciona un lugar para Teletransportarse#
+Nivel de skill insuficiente#
+No hay lugares memorizados (Memo Points).#
+No has aprendido Teletransportación.#
 Punto de Teletransportación guardado.#
 Cancelar#
-Hay un retraso entra una Skill y la siguiente#
-Límite de capacidad máxima, tienes demasiados objetos..#
+Hay un retraso entra una skill y la siguiente#
+Límite de capacidad máxima, tienes demasiados items..#
 Fuera de la capacidad máxima#
-Objetos del Carro#
+Items del Carro#
 Quitar Carro#
 Poner Tienda#
 Nombre de tu Tienda.#
-Mi Tienda#
+Mi tienda#
 Tienda#
-Objetos para vender#
+Items para Vender#
 %s Compra Fallida %s#
 Agotado#
 %s %d vendido.#
-Objetos Disponibles para Vender#
-La Skill ha Fallado porque no tienes suficiente zeny.#
-Selecciona un Objetivo.#
+Objetos disponibles para vender#
+La skill ha fallado porque no tienes suficiente zeny.#
+Selecciona un objetivo.#
 /pk on: Activa el modo PK. /pk off: Desactiva el modo PK.#
 Tienda#
-Objetos del Carro [Alt+W]#
-Información Básica#
-No puedes usar la Skill con esa Arma.#
-La Compra de %s ha Fallado. Agotado. Productos disponibles %d.#
+Objetos del carro [Alt+W]#
+Información básica#
+No puedes usar la skill con esa Arma.#
+La compra de %s ha fallado. Agotado. Productos disponibles %d.#
 Has sido desconectado debido a un desfase entre el servidor y tu.#
 Por favor equipate las municiones primero.#
-No puedes Atacar o usar Skills mientras tengas sobrepeso.#
-No puedes usar Skills mientras tengas sobrepeso.#
-Municiones Equipadas.#
+No puedes atacar o usar skills mientras tengas sobrepeso.#
+No puedes usar skills mientras tengas sobrepeso.#
+Municiones equipadas.#
 Necesitas Red Gemstone.#
 Necesitas Blue Gemstone.#
 Fuerza#
@@ -279,7 +279,7 @@ Snap de Item Off#
 Snap#
 No puedes cargar más de 30,000 unidades de cada tipo de Item.#
 No puedes borrar un personaje de nivel superior a 30. Si deseas borrar el personaje contacta con un GM.#
-No puedes usar una tienda de NPC mientras comercias con alguien.#
+No puedes usar una tienda de NPC mientras negocias con alguien.#
 Nombre#
 Árbol de Skills#
 Puntos de Skill: %d#
@@ -293,24 +293,24 @@ Configuración de party#
 Compartir EXP#
 Compartir Items#
 Solo el líder del party puede cambiar esta configuración.#
-Alternar cantidad de Items.#
+Alternar cantidad de items.#
 El Personaje se eliminará en ^ff0000%d^000000 segundos. Pulsa Cancelar para impedirlo.#
-No puedes comerciar más de 10 tipos de Items por vez.#
+No puedes negociar más de 10 tipos de items por vez.#
 Eres menor de edad.#
 Por favor, ingrese la contraseña para eliminar.#
 Dirección de E-mail (Distingue mayúsculas y minúsculas).#
 La eliminación de Personaje ha fallado porque ha ingresado una dirección de E-mail incorrecta.#
 Si ves este mensaje, repórtalo al Administrador.#
 Si ves este mensaje, repórtalo al Administrador.#
-No puedes vender más de 15 tipos de Items por vez.#
+No puedes vender más de 15 tipos de items por vez.#
 Eres menor de edad, no puedes jugar en este servidor.#
 Tu HP/SP no se restaurará mientras tu peso supere el 50%.#
-No puedes usar Skills ni Atacar mientras tu peso supere el 90%.#
+No puedes usar skills ni atacar mientras tu peso supere el 90%.#
 Ahora tu HP/SP se recuperará con normalidad.#
 Ataque y Skills ya están disponibles.#
-Tu Cliente no está actualizado o está mal instalado.#
-Items Agotados.#
-Guardar Chat en Nota de Texto#
+Tu cliente no está actualizado o está mal instalado.#
+Items agotados.#
+Guardar chat en nota de texto#
 /savechat: Guarda el registro de chat#
 Registrarse#
 Rechazar Susurros#
@@ -422,8 +422,8 @@ Sagrado#
 Sombras#
 Fantasma#
 No-muerto#
-No puedes crear Items aun.#
-Lista de Items que puedes Diseñar#
+No puedes crear items aun.#
+Lista de items que puedes Diseñar#
  Crear#
  materiales#
  creación de item Exitosa.#
@@ -896,7 +896,7 @@ Tu Arma seguirá bendecida con elemento sagrado durante el próximo minuto.#
 Tu Armadura seguirá bendecida con elemento sagrado durante el próximo minuto.#
 Tu Defensa permanecerá aumentada durante los próximos 10 segundos.#
 Tu Fuerza de Ataque aumentará durante el próximo minuto.#
-Su Precisión y Tasa de Huida se incrementarán durante el próximo minuto.#
+Su Precisión y Tasa de Evasión se incrementarán durante el próximo minuto.#
 No puede adoptar más de 1 niño.#
 Requieres ser nivel 70 o superior para adoptar un hijo.#
 [Point] You have been rewarded with %d Blacksmith rank points. Your point total is %d.#
