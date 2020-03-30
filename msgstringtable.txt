@@ -907,15 +907,15 @@ Super Novice~#
 Ayúdame~ por favor ~ T_T#
 /notalkmsg2: Ocultar mensajes de chat (incluido el chat de guild). On Off#
 Mostrar mensajes de chat. [/nm2 ON]#
-Hide chat messages(including guild chat) [/nm2 OFF]#
-Upgradeable weapons#
-Refined weapon: %s#
-Refined weapon: %s#
-You cannot upgrade %s until you level up your Upgrade Weapon skill.#
-%s is required to upgrade this weapon.#
-Full Divestment cannot pierce the target. The target is fully shielded.#
-You cannot adopt a married person.#
-This name is not registered in your Friend List. Please check the name again.#
+Ocultar mensajes de chat (incluido el chat de guild) [/nm2 OFF]#
+Armas mejorables#
+Arma refinada: %s#
+Arma refinada: %s#
+No puedes mejorar %s hasta que subas de nivel tu habilidad Upgrade Weapon.#
+%s es requerido para mejorar esta arma.#
+Full Divestment no hace efecto. El objetivo está completamente protegido.#
+No puedes adoptar a una persona que está casada.#
+Este nombre no se encuentra registrado en tu lista de amigos. Por favor revisa el nombre nuevamente.#
 /hi or /hi message: Send greetings to people who are online and registered on your Friend List.#
 This character is not your guildsman. Please check the name again.#
 Please be aware that the maximum selling price is fixed as 2 Billion. You cannot sell an item higher than that.#
