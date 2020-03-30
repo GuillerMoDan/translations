@@ -899,14 +899,14 @@ Tu Fuerza de Ataque aumentará durante el próximo minuto.#
 Su Precisión y Tasa de Evasión se incrementarán durante el próximo minuto.#
 No puede adoptar más de 1 niño.#
 Requieres ser nivel 70 o superior para adoptar un hijo.#
-[Point] You have been rewarded with %d Blacksmith rank points. Your point total is %d.#
-[Point] You have been rewarded with %d Alchemist rank points. Your point total is %d.#
-Dear angel, can you hear my voice?#
-I am#
+[Punto] Has sido recompensado con %d puntos de Blacksmith rank. Tu puntaje total es %d.#
+[Punto] Has sido recompensado con %d puntos de Alchemist rank. Tu puntaje total es %d.#
+Querido ángel, ¿Puedes oír mi voz?#
+Lo hago#
 Super Novice~#
-Help me out~ Please~ T_T#
-/notalkmsg2: Hides chat messages(including guild chat). On Off#
-Show chat messages. [/nm2 ON]#
+Ayúdame~ por favor ~ T_T#
+/notalkmsg2: Ocultar mensajes de chat (incluido el chat de guild). On Off#
+Mostrar mensajes de chat. [/nm2 ON]#
 Hide chat messages(including guild chat) [/nm2 OFF]#
 Upgradeable weapons#
 Refined weapon: %s#
