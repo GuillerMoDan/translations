@@ -916,10 +916,10 @@ No puedes mejorar %s hasta que subas de nivel tu habilidad Upgrade Weapon.#
 Full Divestment no hace efecto. El objetivo está completamente protegido.#
 No puedes adoptar a una persona que está casada.#
 Este nombre no se encuentra registrado en tu lista de amigos. Por favor revisa el nombre nuevamente.#
-/hi or /hi message: Send greetings to people who are online and registered on your Friend List.#
-This character is not your guildsman. Please check the name again.#
-Please be aware that the maximum selling price is fixed as 2 Billion. You cannot sell an item higher than that.#
-Whispers from friends are displayed as [ Friend ], and ones from guildsmen are displayed as [ Member ].#
+/hi or /hi message: Envía un saludo a la gente que este online de tu lista de amigos.#
+Este personaje no es un miembro de tu guild. Por favor revisa el nombre nuevamente.#
+Por favor se consciente de que el precio máximo de venta es de 2 Billion. No puedes vender un ítem a un precio mayor.#
+Los susurros de amigos se muestran como [ Friend ], y los de miembros de guild como [ Member ].#
 ( From character name: ) is from an anonymous character who is neither your friend nor guildsman.#
 /blacksmith: Shows top 10 Blacksmiths in the server.#
 /alchemist: Shows top 10 Alchemists in the server.#
