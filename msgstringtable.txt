@@ -723,8 +723,8 @@ Disminuir el tiempo de silencio del jugador.#
 Fuente normal mostrada. [showname type 1]#
 Muestra el nombre del grupo cuando la fuente está en modo normal [showname type 2]#
 /doridori: Agita la cabeza#
-Internet cafe is paying now.#
-Prepaid voucher validate until %d days %d hours %d minutes later.\nTime limit voucher validate untill %d hours %d minutes later.#
+El cibercafé está pagando ahora.#
+Comprobante prepago validar hasta %d días %d horas %d minutos más tarde. \n Límite de tiempo validar validar hasta %d horas %d a minutos más tarde.#
 /bingbing: Rota al jugador en sentido antihorario.#
 /bangbang: Rota al jugador en sentido horario.#
 /skillfail: Mostrar mensaje de fuente roja cuando falla la Skill. On | Off#
@@ -740,20 +740,20 @@ Distribución de Items#
 Individualmente#
 Compartido#
 nProtect KeyCrypt#
-Keyboard Driver has been detected. \n\nDo you want to install a program for keyboard security?    \n\n(After installation, System Reboot is required)#
-Installation has been completed.  \n\nSystem will be rebooted.#
-Installation has been failed.#
-Keyboard Security will be skipped.#
-Required file for Keyboard Security is not existing.  \n\n(npkeyc.vxd, npkeyc.sys, npkeycs.sys)#
-USB Keyboard has been detected. \n\nDo you want to install a program for keyboard security?    \n\n(After installation, System Reboot is required)#
+Se ha detectado el controlador del teclado. \n\n¿Desea instalar un programa para la seguridad del teclado?    \n\n(Después de la instalación, se requiere reiniciar el sistema.)#
+La instalación ha sido completada.  \n\nEl sistema se reiniciará.#
+La instalación ha fallado.#
+La seguridad del teclado se omitirá.#
+El archivo requerido para la seguridad del teclado no existe.  \n\n(npkeyc.vxd, npkeyc.sys, npkeycs.sys)#
+Se ha detectado el teclado USB. \n\n¿Desea instalar un programa para la seguridad del teclado?    \n\n(Después de la instalación, se requiere reiniciar el sistema.)#
 ftp://ragnarok.nefficient.co.kr/pub/ragnarok/ragnarok0526.exe#
-FindHack is not installed correctly. Please download ragnarok0226.exe and install it in RagnarokOnline directory.(%d).#
-Hacking tool is existing but it hasn't been cleaned. Rangarok Online will not be executed.#
-Hacking tool scan program has not been downloaded correctly. Please download ragnarok0226.exe and install it in RagnarokOnline directory.#
-NPX.DLL register error or there is no necessary file to run FindHack. Please download ragnarok0226.exe and install it in RagnarokOnline directory.#
-Exceptional Error. Please contact the customer support. Return Value: (%d)#
-Exit button has been clicked.#
-Unable to connect Findhack Update Server. Please try again or contact the customer support.#
+FindHack no está instalado correctamente. Descargue ragnarok0226.exe e instálelo en el directorio RagnarokOnline.(%d).#
+La herramienta de pirateo existe y no ha sido eliminada. Ragnarok Online no se ejecutará.#
+El programa de escaneo de la herramienta de piratería no se ha descargado correctamente. Descargue ragnarok0226.exe e instálelo en el directorio RagnarokOnline.#
+NPX.DLL error de registro o no hay ningún archivo necesario para ejecutar FindHack. Descargue ragnarok0226.exe e instálelo en el directorio RagnarokOnline.#
+Error excepcional Por favor, póngase en contacto con el servicio al cliente. Valor de retorno: (%d)#
+Se ha hecho clic en el botón Salir.#
+No se puede conectar el servidor de actualizaciones Findhack. Por favor, inténtelo nuevamente o comuníquese con el servicio al cliente#
 Domesticado #
 /report: Guardar un archivo de registro de chat.#
 Este documento puede ser utilizado por los GMs \n como prueba de acciones malintencionadas de los jugadores. \n El documento no será válido si se guarda en otro formato o su contenido es modificado.#
@@ -918,31 +918,31 @@ No puedes adoptar a una persona que está casada.#
 Este nombre no se encuentra registrado en tu lista de amigos. Por favor revisa el nombre nuevamente.#
 /hi or /hi message: Envía un saludo a la gente que este online de tu lista de amigos.#
 Este personaje no es un miembro de tu guild. Por favor revisa el nombre nuevamente.#
-Por favor se consciente de que el precio máximo de venta es de 2 Billion. No puedes vender un ítem a un precio mayor.#
-Los susurros de amigos se muestran como [ Friend ], y los de miembros de guild como [ Member ].#
-( From character name: ) is from an anonymous character who is neither your friend nor guildsman.#
-/blacksmith: Shows top 10 Blacksmiths in the server.#
-/alchemist: Shows top 10 Alchemists in the server.#
-ALT+Y: Opens a window which allows you to use various commands with ease.#
-[POINT] You have been rewarded with %d Tae-Kwon Mission rank points. Your point total is %d.#
-[Taekwon Mission] Target Monster: %s (%d%%)#
-Error - Failed to initialize GameGuard: %lu#
-Speed Hack has been detected.#
-The illegal program, (%s) has been detected.#
-The Game or Gameguard has been cracked.#
-GameGuard is currently running. Please wait for sometime and restart the game.#
-The Game or GameGuard is already running. Please close the game and restart the game.#
-Failed to intialize GameGuard. Please try again after rebooting the system or closing other programs.#
-Failed to load the scan module of virus and hacking tool. It's caused by lack of memory or PC virus infection.#
-Homunculus Info#
-Homunculus Skill List#
-Please give your Homunculus a name no longer than 23 letters.#
-You can name a Homunculus only once. You have entered the name, ^0000ff%s^000000. Would you like to continue?#
-(Away)#
-[Automated Message]#
-Send an automated message while you are away.#
-Cancel automated away message.#
-Please enter Away Message.#
+Por favor se consciente de que el precio máximo de venta es de 2 mil millones. No puedes vender un item a un precio mayor.#
+Los susurros de amigos se muestran como [Amigo], y los de miembros de guild como [Miembro].#
+( Desde "Nombre del personaje": ) proviene de un jugador anónimo que no esta en tu Gremio ni en tu lista de Amigos.#
+/blacksmith: Muestra los 10 mejores Blacksmiths del servidor.#
+/alchemist: Muestra los 10 mejores Alchemists del servidor.#
+ALT+Y: Abre una ventana que le permite usar varios comandos con facilidad.#
+[PUNTO] Has sido recompensado con %d punto(s) de rango de la Mision Tae-Kwon. Tu puntuación total es de %d.#
+[Misión de Taekwon] Monstruo Objetivo: %s (%d%%)#
+Error - No se pudo iniciar con GameGuard: %lu#
+Speed Hack ha sido detectado.#
+El programa ilegal, (%s) ha sido detectado.#
+El Juego o GameGuard han sido corrompidos.#
+GameGuard ya ha sido iniciado. Espere un rato y reinicie el juego.#
+El Juego o GameGuard ya ha sido iniciado. Por favor, reinicie el juego.#
+Error al iniciar GameGuard. Inténtalo de nuevo tras reiniciar el sistema o cerrar algunos programas.#
+Error al cargar el modulo antivirus. Esto puede deberse a un fallo en la memoria o una infección de virus en su PC.#
+Información del Homúnculo#
+Skills del Homúnculo#
+Por favor, dale a tu Homúnculo un nombre de no mayor de 23 letras.#
+Puedes nombrar un Homúnculo solo una vez. Has introducido el nombre, ^0000ff%s^000000. ¿Deseas continuar?#
+(Ausente)#
+[Mensaje Automático]#
+Envia un mensaje automático cuando estes ausente.#
+Cancelar mensaje automatico de ausencia.#
+Escribe un mensaje automatico para cuando no estes.#
 /fsh#
 /spin#
 /sigh#
@@ -950,12 +950,12 @@ Please enter Away Message.#
 /crwd#
 /desp#
 /dice#
-/pk: Shows top 10 Slayers in the server.#
-[POINT] You have been rewarded with %d Slayer rank points. Your point total is %d.#
-Evolution Available#
-You have decided to delete this Homunculus ^ff0000^ff0000. When deleted, the homunculus and its history will be deleted and they cannot be restored in the future. Would you like to continue?#
-Save Homunculus status as a file.#
-Do not save Homunculus status as a file.#
+/pk: Muestra el Ranking de los 10 mejores Asesinos del servidor.#
+[PUNTO] Has sido recompensado con %d punto(s) de rango Asesino. Tu puntuación total es de %d.#
+Evolución Disponible#
+Has decidido eliminar este Homúnculo ^ff0000^ff0000. Cuando se haya eliminado, no será posible recuperarlo en el futuro. ¿Deseas continuar?#
+El Estado del Homúnculo se guardará#
+El Estado del Homúnculo no se guardará#
 Crusader#
 Monk#
 Sage#
@@ -1006,73 +1006,73 @@ Professor#
 Stalker#
 Creator#
 Gypsy#
-You have not set a password yet. Would you like to create one now?#
-You have incorrectly entered the password 3 times. Please try again later.#
-Password creation has failed.#
-Password must be 4~8 letters long.#
-Password#
-New Password#
-Confirm Password#
-Password has been changed.#
-Password does not match.#
-Enter Password#
-Your Homunculus is starving. Please feed it, otherwise it will leave you.#
+Aún no ha establecido una contraseña. ¿Te gustaría crear uno ahora?#
+Has ingresado la contraseña incorrectamente 3 veces. Por favor, inténtelo de nuevo más tarde.#
+La creación de la contraseña ha fallado.#
+La contraseña debe tener entre 4 y 8 letras.#
+Contraseña#
+Nueva contraseña#
+Confirmar contraseña#
+La contraseña ha sido cambiada.#
+Las contraseñas no coinciden.#
+Introduce la contraseña#
+Tu homúnculo está muriendo de hambre. Aliméntalo, de lo contrario te dejará.#
 EXP#
-[EVENT] You have won an event prize. Please claim your prize in game.#
-Hate#
-Hate with a Passion#
-Homunculus has been customized.#
-Homunculus has been activated with the basic AI.#
-Mail List#
-Write Mail#
-Read Mail#
-You cannot change a map's designation once it is designated. Are you sure that you want to designate this map?#
-Item has been added in the Item Window.#
-You have failed to add the item in the Item Window.#
-You have successfully mailed a message.#
-You have failed to mail a message. Recipient does not exist.#
-[Solar, Lunar and Stellar Angel] Designated places and monsters have been reset.#
-The minimum starting bid for auctions is 10,000,000 zeny.#
-You have successfully started a new auction.#
-The auction has been canceled.#
-An auction with at least one bidder cannot be canceled.#
-Mail has been successfully deleted.#
-You have failed to delete the mail.#
-You have equipped throwing daggers.#
-%s has logged in.#
-%s has logged out.#
-/loginout: Shows guildsmen and friends online status. On Off#
-Display online status of friends in Chat Window. [/li ON]#
-Do not display online status of friends in Chat Window. [/li OFF]#
-It is already running.#
-Use of Macro program has been detected.#
-Use of Speed hack has been detected.#
-API Hooking has been detected.#
-Message Hooking has been detected.#
-Module has been modified or damaged or its version does not match.#
-(Thailand) You have logged in game with Internet cafe payment.#
-Prev#
-Next#
-Auction#
-Product List#
-Register#
-Sale Status#
-Purchase Status#
+[EVENTO] Has ganado un premio del evento. Recíbelo en el juego.#
+Hostil#
+Odio con pasión#
+El homúnculo ha sido personalizado.#
+El homúnculo se ha activado con la IA básica.#
+Lista de Correo#
+Escribir Correo#
+Leer Mensaje#
+No puede cambiar la designación de un mapa una vez designado. ¿Estás seguro de que deseas designar este mapa?#
+El item se ha agregado en la ventana de items.#
+No ha podido agregar el item en la ventana de items.#
+Has enviado un mensaje correctamente.#
+No ha podido enviar el mensaje. El destinatario no existe.#
+[Ángel Solar, Lunar y Estelar] Los lugares designados y los monstruos se han reiniciado.#
+La oferta mínima inicial para las subastas es de 10,000,000 zeny.#
+Has iniciado con éxito una nueva subasta.#
+La subasta ha sido cancelada.#
+No se puede cancelar una subasta con al menos un postor.#
+El mensaje ha sido eliminado exitosamente.#
+No ha podido eliminar el mensaje.#
+Has equipado dagas lanzables.#
+%s ha entrado.#
+%s ha salido.#
+/loginout: Muestra el estado en línea de Gremios y Amigos. On Off#
+Mostrar el estado en línea de amigos en la ventana de chat. [/li ON]#
+No mostrar el estado en línea de amigos en la ventana de chat. [/li OFF]#
+Ya ha sido iniciado.#
+Se ha detectado el uso del programa Macro.#
+Se ha detectado el uso de Speed hack.#
+Se ha detectado el enlace API.#
+Se ha detectado la conexión de mensajes.#
+El módulo ha sido modificado o dañado o su versión no coincide.#
+(Tailandia) Has iniciado sesión en el juego con el pago de un cibercafé.#
+Anterior#
+Siguiente#
+Subasta#
+Lista de Productos#
+Registrarse#
+Estado de Venta#
+Estado de Compra#
 Item#
-Name#
-Current Bid / Max Bid#
-Seller#
-Buyer#
-End Time#
+Nombre#
+Puja Actual / Puja Máxima#
+Vendedor#
+Comprador#
+Fin de Subasta#
 %m %d %H#
-Time (Hr)#
-Fee#
-No items found in auction search.#
-Your Sale List is empty.#
-Your Purchase List is empty.#
-Auction Information is incorrect or incomplete.#
-You must drag and drop an item from your Inventory into the Register Window to begin a new auction.#
-The auction has already been registered.#
+Tiempo (Hr)#
+Cuota#
+No se encontraron items en la búsqueda de subastas.#
+Su Lista de Venta está vacía.#
+Su Lista de Compras está vacía.#
+La información de la subasta es incorrecta o está incompleta.#
+Debe arrastrar y soltar un item de su inventario en la ventana de registro para comenzar una nueva subasta.#
+La subasta ya ha sido registrada.#
 Starting Bid#
 Current Bid#
 Buy Now Price#
