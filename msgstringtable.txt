@@ -1302,7 +1302,7 @@ Cerrar#
 %s %s fue dañado.#
 Arma#
 Armadura#
-Insufficient Skill Level for joining a Party#
+Nivel de habilidad insuficiente para unirse al grupo#
 [%s]'s Free Cash: %d Cash#
 Use Free Cash: #
 Cash#
