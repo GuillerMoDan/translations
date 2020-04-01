@@ -1110,7 +1110,7 @@ Ahora puede abrir una tienda con un solo clic izquierdo y cerrar su tienda con u
 Puedes abrir una tienda haciendo doble clic. [/sh OFF]#
 Por favor ingrese el monto en zeny antes de enviar el correo.#
 No tiene suficiente zeny para pagar la comisión de la Subasta.#
-Ver Status#
+Ver Estado#
 Alimentar#
 Pasivo/Agresivo#
 Super Novice#
@@ -1207,101 +1207,101 @@ Puedes sentir odio por parte de tu mascota por descuidar su alimentación.#
 [Pregunta del Ángel] Gracias por hacérmelo saber~#
 [Pregunta del Ángel] Estoy muy satisfecho con tu respuesta. Eres un espléndido aventurero.#
 [Pregunta del Ángel] Me has decepcionado...#
-[Point] You earned %d Ranking Points, giving you a total of %d Ranking Points.#
-[%s]'s Points: %d Points#
-Unselected Characters will be deleted. Continue?#
-You cannot select more than 8.#
-Do you want to change your name to '%s'?#
-Character Name has been changed successfully.#
-You have failed to change this character's name.#
-You can purchase only one kind of item at a time.#
-No characters were selected. You must select at least one character.#
-This character's name has already been changed. You cannot change a character's name more than once.#
-User Information is not correct.#
-Another user is using this character name, so please select another one.#
-The party member was not summoned because you are not the party leader.#
-There is no party member to summon in the current map.#
-You cannot find any trace of a Boss Monster in this area.#
-Boss Monster, '%s' will appear in %02d hour(s) and %02d minute(s).#
-The location of Boss Monster, '%s', will be displayed on your Mini-Map.#
-Do you want to open ^990099%s^000000? Once opened, the contents cannot be moved to other locations aside from the Kafra Storage. The item effect isn't doubled, even if the same items are used more than once.#
-The Purchase has failed because the NPC does not exist.#
-The Purchase has failed because the Kafra Shop System is not working correctly.#
-You cannot purchase items while you are in a trade.#
-The Purchase has failed because the Item Information was incorrect.#
-STR has increased.#
-STR has returned to normal.#
-AGI has increased.#
-AGI has returned to normal.#
-VIT has increased.#
-VIT has returned to normal.#
-INT has increased.#
-INT has returned to normal.#
-DEX has increased.#
-DEX has returned to normal.#
-LUK has increased.#
-LUK has returned to normal.#
-Flee Rate (Flee) has increased.#
-Flee Rate has returned to normal.#
-Accuracy Rate (Hit) has increased.#
-Accuracy Rate has returned to normal.#
-Critical Attack (Critical) has increased.#
-Critical Attack has returned to normal.#
-You will receive 1.5 times more EXP from hunting monsters for the next 30 minutes.#
-This character will not receive any EXP penalty if ko'ed within the next 30 minutes.#
-Regular item drops from monsters will be doubled for the next 30 minutes.#
-Boss Monster Map Information for the next 10 minutes.#
-Do you really want to purchase this item? %d points will be deducted from your total Kafra Credit Points.#
- You do not have enough Kafra Credit Points.#
- ^ff0000Expiration Date: %s^000000#
- The '%s' item will disappear in %d minutes.#
- '%s' item will be deleted from the Inventory in 1 minute.#
-  '%s' item has been deleted from the Inventory.#
-Input Number#
+[PUNTO] Usted ganó %d Ranking Points, consiguiendo un total de %d Ranking Points.#
+[%s]'s Puntos: %d Puntos#
+Los Personajes no seleccionados serán eliminados. ¿Continuar?#
+No puedes seleccionar más de 8.#
+¿Quieres cambiar tu nombre a '%s'?#
+El nombre del personaje se ha cambiado correctamente.#
+No has podido cambiar el nombre de este personaje.#
+Solo puedes comprar un tipo de item a la vez.#
+No se seleccionaron personajes. Debes seleccionar al menos un personaje.#
+El nombre de este personaje ya ha sido cambiado. No puedes cambiar el nombre de un personaje más de una vez.#
+La información del usuario no es correcta.#
+Otro usuario está usando este nombre de personaje, seleccione otro.#
+El miembro del party no fue convocado porque usted no es el líder del grupo.#
+No hay ningún miembro del party para convocar en el mapa actual.#
+No puedes encontrar ningún rastro de un Boss Monster en esta área.#
+Boss Monster, '%s' aparecerá en %02d hora(s) y %02d minuto(s).#
+La ubicación de Boss Monster, '%s', se mostrará en su Mini-Mapa.#
+Quieres abrir ^990099%s^000000? Una vez abierto, el contenido no se puede mover a otras ubicaciones aparte del Kafra Storage. El efecto del item no se duplica, incluso si los mismos items se usan más de una vez.#
+La compra ha fallado porque el NPC no existe.#
+La compra ha fallado porque el Sistema Kafra Shop no funciona correctamente.#
+No puede comprar items mientras está en una negociación.#
+La compra ha fallado porque la información del item era incorrecta.#
+STR ha aumentado.#
+STR ha vuelto a la normalidad.#
+AGI ha aumentado.#
+AGI ha vuelto a la normalidad.#
+VIT ha aumentado.#
+VIT ha vuelto a la normalidad.#
+INT ha aumentado.#
+INT ha vuelto a la normalidad.#
+DEX ha aumentado.#
+DEX ha vuelto a la normalidad.#
+LUK ha aumentado.#
+LUK ha vuelto a la normalidad.#
+La Tasa de Evasión (Flee) ha aumentado.#
+La Tasa de Evasión (Flee) ha vuelto a la normalidad.#
+La Tasa de Precisión (Hit) ha aumentado.#
+La Tasa de Precisión ha vuelto a la normalidad.#
+El Ataque Crítico (Critical) ha aumentado.#
+El Ataque Crítico ha vuelto a la normalidad.#
+Recibirás 1.5 veces más EXP por cazar monstruos durante los próximos 30 minutos.#
+Este personaje no recibirá ninguna penalización de EXP si se cancela dentro de los próximos 30 minutos.#
+Los Drops de items regulares de los monstruos se duplicarán durante los próximos 30 minutos.#
+Boss Monster Map Information para los próximos 10 minutos.#
+¿Realmente quieres comprar este artículo? Se deducirán %d puntos del total de Puntos de Crédito de Kafra.#
+ No tiene suficientes Puntos de Crédito Kafra.#
+ ^ff0000Fecha de Caducidad: %s^000000#
+ El item '%s' desaparecerá en %d minuto(s).#
+ '%s' el item se eliminará del inventario en 1 minuto.#
+  '%s' el item ha sido eliminado del inventario.#
+Número de entrada#
 %m/%d %H:%M#
-Boss Monster '%s' will appear within 1 minute.#
-Mercenary Soldier Skill List#
-Do you agree to cast the magic spell that consumes 1 Black Gemstone and 1,000,000 Zeny?#
-[Point] You have gained %d Collector Rank Points; you now have a total of %d Collector Rank Points.#
-[Collector Rank] Target Item: %s#
-The mercenary contract has expired.#
-The mercenary has died.#
-You have released the mercenary.#
-The mercenary has run away.#
- The '%s' item will disappear in %d seconds.#
-IP Bonus: EXP/JEXP %d%%, Death Penalty %d%%, Item Drop %d%%#
-Symbols in Character Names are forbidden.#
-Mercenary will follow custom AI.#
-Mercenary will follow basic AI.#
+Boss Monster '%s' aparecerá en 1 minuto.#
+Lista de Skills del Mercenary Soldier#
+¿Estás de acuerdo en lanzar el hechizo mágico que consume 1 Black Gemstone y 1,000,000 Zeny?#
+[PUNTO] Has ganado %d Collector Rank Points; consiguiendo un total de %d Collector Rank Points.#
+[Collector Rank] Item objetivo: %s#
+El contrato con el mercenario ha expirado.#
+El mercenario ha muerto.#
+Has liberado al mercenario.#
+El mercenario ha huido.#
+ El '%s' item desaparecerá en %d segundo(s).#
+Bono IP: EXP/JEXP %d%%, Death Penalty %d%%, Item Drop %d%%#
+Los símbolos en los nombres de los personajes están prohibidos.#
+Mercenario seguirá la IA personalizada.#
+Mercenario seguirá la IA básica.#
  %s's #
-%s has acquired %s.#
-Public Chat#
-Whisper#
-Party Chat#
-Guild Chat#
-Item get/drop#
-Equipment on/off#
-Abnormal status#
-Party member's obtained item#
-Party member's abnormal status#
-Skill failure#
-Party configuration#
-Damaged equipment#
-Battle Message Window#
+%s ha adquirido %s.#
+Chat Público#
+Susurro#
+Chat de Party#
+Chat de Gremio#
+Item obtener/soltar#
+Equipamiento on/off#
+Estado anormal#
+Item obtenido del miembro del party#
+Estado anormal del miembro del party#
+Falla de skill#
+Configuración del party#
+Equipamiento dañado#
+Ventana de chat de batalla#
 [%s]'s Han Coin: %d Han Coin#
-Public#
-Battle#
-Mobile Authentication#
-Read#
-Auto Read#
-Bookmark#
-Previous#
-Next#
-Close#
-%s's equipment has been damaged.#
-%s's %s was damaged.#
-Weapon#
-Armor#
+Público#
+Batalla#
+Autenticación móvil#
+Leer#
+Lectura automática#
+Marcador#
+Anterior#
+Siguiente#
+Cerrar#
+%s el equipo ha sido dañado.#
+%s %s fue dañado.#
+Arma#
+Armadura#
 Insufficient Skill Level for joining a Party#
 [%s]'s Free Cash: %d Cash#
 Use Free Cash: #
