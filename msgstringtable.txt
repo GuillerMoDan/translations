@@ -1060,7 +1060,7 @@ Estado de Venta#
 Estado de Compra#
 Item#
 Nombre#
-Puja Actual / Puja Máxima#
+Oferta Actual / Oferta Máxima#
 Vendedor#
 Comprador#
 Fin de Subasta#
@@ -1073,38 +1073,38 @@ Su Lista de Compras está vacía.#
 La información de la subasta es incorrecta o está incompleta.#
 Debe arrastrar y soltar un item de su inventario en la ventana de registro para comenzar una nueva subasta.#
 La subasta ya ha sido registrada.#
-Starting Bid#
-Current Bid#
-Buy Now Price#
-Your Current Zeny#
-Highest Bid#
-Previous Bid#
-Next Bid#
-Buy it now?#
-Would you like to sell this item?#
-Place Bid#
-Buy Now#
-End the Auction#
-Place another Bid#
-You have placed a bid.#
-You have failed to place a bid.#
-You do not have enough zeny.#
+Comenzando Oferta#
+Oferta Actual#
+Precio de Compra Inmediata#
+Tu zeny actual#
+Oferta Máxima#
+Oferta anterior#
+Oferta siguiente#
+¿Comprar ahora?#
+¿Quieres vender este item?#
+Hacer Oferta#
+Comprar ahora#
+Finalizar la subasta#
+Hacer otra Oferta#
+Has hecho una oferta.#
+Tu oferta ha fallado.#
+No tienes suficiente zeny.#
 Armor#
 Card#
 Etc.#
-Bid#
-Search#
-You have ended the auction.#
-You cannot end the auction.#
-Bid Number is incorrect.#
-To#
-Title#
-You have received a message in the mail.#
-Searching...#
-You cannot register more than 5 items in an auction at a time.#
-You cannot place more than 5 bids at a time.#
-Please accept all items from your mail before deleting.#
-Please enter a title.#
+Oferta#
+Buscar#
+Has finalizado la subasta.#
+No puedes finalizar la subasta.#
+El número de la oferta es incorrecto.#
+Para#
+Título#
+Has recibido un mensaje a tu correo.#
+Buscando...#
+No puedes registrar más de 5 items en una subasta al mismo tiempo.#
+No puedes hacer más de 5 ofertas al mismo tiempo.#
+Por favor, acepte todos los artículos de su correo antes de borrarlos..#
+Por favor, inserte un título.#
 /shopping: Enables you to open a shop with a single left-click and close your shop with a single right-click. On Off#
 You can now open a shop with a single left-click and close your shop with a single right-click. [sh ON].#
 You can open a shop by double-clicking. [/sh OFF]#
