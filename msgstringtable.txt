@@ -1006,7 +1006,7 @@ Professor#
 Stalker#
 Creator#
 Gypsy#
-Aún no ha establecido una contraseña. ¿Te gustaría crear uno ahora?#
+Aún no has establecido una contraseña. ¿Te gustaría crear una ahora?#
 Has ingresado la contraseña incorrectamente 3 veces. Por favor, inténtelo de nuevo más tarde.#
 La creación de la contraseña ha fallado.#
 La contraseña debe tener entre 4 y 8 letras.#
