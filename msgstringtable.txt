@@ -1103,16 +1103,16 @@ Has recibido un mensaje a tu correo.#
 Buscando...#
 No puedes registrar más de 5 items en una subasta al mismo tiempo.#
 No puedes hacer más de 5 ofertas al mismo tiempo.#
-Por favor, acepte todos los artículos de su correo antes de borrarlos..#
+Por favor, acepte todos los artículos de su correo antes de borrarlos.#
 Por favor, inserte un título.#
-/shopping: Enables you to open a shop with a single left-click and close your shop with a single right-click. On Off#
-You can now open a shop with a single left-click and close your shop with a single right-click. [sh ON].#
-You can open a shop by double-clicking. [/sh OFF]#
-Please enter zeny amount before sending mail.#
-You do not have enough zeny to pay the Auction Fee.#
-View Status#
-Feed#
-Stand By#
+/shopping: Le permite abrir una tienda con un solo clic izquierdo y cerrar su tienda con un solo clic derecho. On Off#
+Ahora puede abrir una tienda con un solo clic izquierdo y cerrar su tienda con un solo clic derecho. [sh ON].#
+Puedes abrir una tienda haciendo doble clic. [/sh OFF]#
+Por favor ingrese el monto en zeny antes de enviar el correo.#
+No tiene suficiente zeny para pagar la comisión de la Subasta.#
+Ver Status#
+Alimentar#
+Pasivo/Agresivo#
 Super Novice#
 Super Novice#
 Taekwon Boy#
@@ -1121,22 +1121,22 @@ Star Gladiator#
 Star Gladiator#
 Soul Linker#
 Soul Linker#
-Please check the connection, more than 2 accounts are connected with Internet Cafe Time Plan.#
-Your account is using monthly payment. (Remaining day: %d day)#
-Your account is using time limited. (Remaining time: %d hour %d minute %d second)#
-This item cannot be mailed.#
-You cannot accept any more items. Please try again later.#
-Male#
-Female#
-New User.#
-E-mail address is required to delete a character.#
-Please enter the correct information.#
-Please use this key.#
-Please enter the correct card password.#
+Verifique la conexión, más de 2 cuentas están conectadas con el plan de tiempo de Internet Cafe.#
+Su cuenta está usando pago mensual. (Días restante: %d día(s))#
+Su cuenta está usando tiempo limitado. (Tiempo restante: %d hora(s) %d minuto(s) %d segundo(s))#
+Este item no se puede enviar por correo.#
+No puedes aceptar más items. Por favor, inténtelo de nuevo más tarde.#
+Masculino#
+Femenino#
+Nuevo usuario.#
+Se requiere una dirección de E-mail para eliminar un personaje.#
+Por favor ingrese la información correcta.#
+Por favor use esta clave.#
+Por favor ingrese la contraseña correcta de la tarjeta.#
 PT Info#
-PT_ID is %s#
-NUM_ID is %s#
-Please don't forget this information.#
+PT_ID es %s#
+NUM_ID es %s#
+Por favor no olvides esta información.#
 1001#
 1002#
 1003#
@@ -1167,46 +1167,46 @@ Please don't forget this information.#
 90#
 100#
 110#
-Do you want to receive 30 points?#
-30 points (5 hours) have been added.#
-You cannot register Unidentified Items in auctions.#
-You cannot register this Consumable Item in an auction.#
-Please close the Cart Window to open the Mail Window.#
-Please close the Mail Window to open the Cart Window.#
-Bullets have been equipped.#
-The mail has been returned to sender.#
-The mail no longer exists.#
-More than 30 players sharing the same IP have logged into the game for an hour. Please check this matter.#
-More than 10 connections sharing the same IP have logged into the game for an hour. Please check this matter.#
-Please restart the game.#
+¿Quieres recibir 30 puntos?#
+Se han agregado 30 puntos (5 horas).#
+No puede registrar items no identificados en subastas.#
+No puede registrar este item consumible en una subasta.#
+Cierre la ventana del carrito para abrir la ventana de correo.#
+Cierre la ventana de correo para abrir la ventana del carrito.#
+Las municiones han sido equipadas.#
+El correo ha sido devuelto al remitente.#
+El correo ya no existe.#
+Más de 30 jugadores que comparten la misma IP han iniciado sesión en el juego durante una hora. Por favor revise este asunto.#
+Más de 10 conexiones que comparten la misma IP han iniciado sesión en el juego durante una hora. Por favor revise este asunto.#
+Por favor reinicie el juego.#
 Mercenary: Archer#
 Mercenary: Swordman#
 Mercenary: Spearman#
-Expiration#
-Loyalty#
-Summons#
-Kill#
-You can feel hatred from your pet for neglecting to feed it.#
-[POINT] You earned %d Taming Mission Ranking Points, giving you a total of %d points.#
-[Taming Mission] Target Monster: %s#
-/hunting: You can check the your hunting list.#
-[Angel's Question] Please tell me, how many %s skills do you have?#
-[Angel's Question] Please tell me, how much zeny you'll have if you divide it by 100,000?#
-[Angel's Question] Please tell me, what is today's date?#
-[Angel's Question] Please tell me, how many %s do you have?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in SiYeon's name?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in Munak's name?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in Bongun's name?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, Ragnarok?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, online?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, death?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, knight?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, gravity?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, dark?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, collecter?#
-[Angel's Answer] Thank you for letting me know~#
-[Angel's Answer] I'm very pleased with your answer. You are a splendid adventurer.#
-[Angel's Answer] You've disappointed me...#
+Vencimiento#
+Lealtad#
+Invocación#
+Matar#
+Puedes sentir odio por parte de tu mascota por descuidar su alimentación.#
+[PUNTO] Usted ganó %d puntos del Ranking del Taming Mission, consiguiendo un total de %d puntos.#
+[Taming Mission] Monstruo objetivo: %s#
+/hunting: Puedes consultar tu lista de caza.#
+[Pregunta del Ángel] Por favor dime, ¿Cuántas skills %s tienes?#
+[Pregunta del Ángel] Por favor, dime, ¿Cuánto zeny tendrías si lo divides por 100,000?#
+[Pregunta del Ángel] Por favor dime, ¿Cuál es la fecha de hoy?#
+[Pregunta del Ángel] Por favor dime, ¿Cuántos %s tienes?#
+[Pregunta del Ángel] Si A es 1, B es 2 y así sucesivamente, y si Z es 26, ¿Qué número obtienes si agregas las letras en el nombre de SiYeon?#
+[Pregunta del Ángel] Si A es 1, B es 2 y así sucesivamente, y si Z es 26, ¿Qué número obtienes si agregas las letras en el nombre de Munak?#
+[Pregunta del Ángel] Si A es 1, B es 2 y así sucesivamente, y si Z es 26, ¿Qué número obtienes si agregas las letras en el nombre de Bongun?#
+[Pregunta del Ángel] Si A es 1, B es 2, y así sucesivamente, y si Z es 26, ¿Qué número obtienes si agregas las letras en la palabra, Ragnarok?#
+[Pregunta del Ángel] Si A es 1, B es 2, y así sucesivamente, y si Z es 26, ¿Qué número obtienes si agregas las letras de la palabra Online?#
+[Pregunta del Ángel] Si A es 1, B es 2, y así sucesivamente, y si Z es 26, ¿Qué número obtiene si agrega las letras en la palabra, muerte?#
+[Pregunta del Ángel] Si A es 1, B es 2, y así sucesivamente, y si Z es 26, ¿Qué número obtienes si agregas las letras en la palabra, knight?#
+[Pregunta del Ángel] Si A es 1, B es 2, y así sucesivamente, y si Z es 26, ¿Qué número obtienes si agregas las letras en la palabra, gravity?#
+[Pregunta del Ángel] Si A es 1, B es 2 y así sucesivamente, y si Z es 26, ¿Qué número obtienes si agregas las letras en la palabra, oscuro?#
+[Pregunta del Ángel] Si A es 1, B es 2, y así sucesivamente, y si Z es 26, ¿Qué número obtiene si agrega las letras en la palabra, colector?#
+[Pregunta del Ángel] Gracias por hacérmelo saber~#
+[Pregunta del Ángel] Estoy muy satisfecho con tu respuesta. Eres un espléndido aventurero.#
+[Pregunta del Ángel] Me has decepcionado...#
 [Point] You earned %d Ranking Points, giving you a total of %d Ranking Points.#
 [%s]'s Points: %d Points#
 Unselected Characters will be deleted. Continue?#
