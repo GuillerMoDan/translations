@@ -1251,7 +1251,7 @@ Recibirás 1.5 veces más EXP por cazar monstruos durante los próximos 30 minut
 Este personaje no recibirá ninguna penalización de EXP si se cancela dentro de los próximos 30 minutos.#
 Los Drops de items regulares de los monstruos se duplicarán durante los próximos 30 minutos.#
 Boss Monster Map Information para los próximos 10 minutos.#
-¿Realmente quieres comprar este artículo? Se deducirán %d puntos del total de Puntos de Crédito de Kafra.#
+¿Realmente quieres comprar este item? Se deducirán %d puntos del total de Puntos de Crédito de Kafra.#
  No tiene suficientes Puntos de Crédito Kafra.#
  ^ff0000Fecha de Caducidad: %s^000000#
  El item '%s' desaparecerá en %d minuto(s).#
@@ -1304,105 +1304,105 @@ Arma#
 Armadura#
 Nivel de skill insuficiente para unirse a la party#
 [%s]'s Free Cash: %d Cash#
-Use Free Cash: #
+Usa Free Cash: #
 Cash#
 http://payment.ro.hangame.com/index.asp#
-You need to accept the Privacy Policy from Gravity in order to use the service.#
-You need to accept the User Agreement in order to use the service.#
-Incorrect or nonexistent ID.#
-Do you really want to purchase these items? You will spend %d Regular Cash Points and %d Free Cash Points.#
-%d hour(s) has passed.#
-%d hour(s) %d minute(s) has passed.#
-Please stop playing the game, and take a break. Exp and other features will be reduced to 50%.#
-Please stop playing the game since you'll need to rest. Exp and other features will be fixed to 0%.#
-Quest List#
+Necesitas aceptar la politica de Gravity para poder usar este servicio.#
+Necesitas aceptar el acuerdo del usuario para poder usar este servicio.#
+ID incorrecta o no existente.#
+¿Estás seguro de comprar estos objetos? Gastarás %d Cash Points y %d Kafra Points.#
+%d hora(s) han pasado.#
+%d hora(s) %d minuto(s) han pasado.#
+Por favor, dejar de jugar y tomate un descanso. La Exp se reducirá al 50%.#
+Por favor, deja de jugar ya que tendrás que descansar. Exp y otras características se fijarán en 0%.#
+Lista de Misiones#
 RO Shop#
-Memorial Dungeon, '%s' is booked.#
-Failed to book Memorial Dungeon, '%s'.#
-Memorial Dungeon, '%s' is already booked.#
-Memorial Dungeon, '%s' is created.\n Please enter in 5 minutes.#
-Failed to create Memorial Dungeon, '%s'.\n Please try again.#
-The character blocked the party invitation.#
-Block all party invitations.#
-Allow all party invitations.#
-This item will be permanently bound to this character once it is equipped. Do you really want to equip this item?#
-%s is now permanently bound to this character.#
-You do not have enough Kafra Credit Points. Please enter whether you have free credit points.#
-Request to Join Party#
-WOE Information#
-Memorial Dungeon %s's reservation has been canceled.#
-Failed to create Memorial Dungeon %s. Please try again.#
-This skill cannot be used within this area.#
-This item cannot be used within this area.#
+Memorial Dungeon, '%s' está reservado.#
+Falló al reservar el Memorial Dungeon, '%s'.#
+Memorial Dungeon, '%s' ya está reservado.#
+Memorial Dungeon, '%s' creado.\n Por favor ingrese en 5 minutos.#
+Falló al crear el Memorial Dungeon, '%s'.\n Inténtalo de nuevo.#
+El personaje bloqueó la invitación de Party.#
+Bloquear todas las invitaciones de Party.#
+Permitir todas las invitaciones de Party.#
+Este item permanecera ligado permanentemente al personaje una vez equipado. ¿Realmente deseas equipar el objeto?#
+%s ahora está vinculado permanentemente a este personaje.#
+No tienes suficientes Kafra Credit Points.#
+'%s', pregunta si quieres unirte a su Party#
+Información de WOE#
+La reservación del Memorial Dungeon %s ha sido cancelada.#
+La creación del Memorial Dungeon %s ha fallado. Inténtalo mas tarde.#
+Esta skill no se puede usar dentro de esta área.#
+Este item no se puede usar dentro de esta área.#
 Memorial Dungeon#
-%s in Standby#
-%s Available#
-%s in Progress#
-No one entered the Memorial Dungeon within its duration; the dungeon has disappeared.#
-Please apply for dungeon entry again to play in this dungeon.#
-Your Standby Priority: ^ff0000%d^000000#
-The requested dungeon will be removed if you do not enter within ^ff0000%s^000000.#
-Dungeon Mission Time Limit:#
-The Memorial Dungeon reservation has been canceled.#
-The Memorial Dungeon duration expired; it has been destroyed.#
-The Memorial Dungeon's entry time limit expired; it has been destroyed.#
-The Memorial Dungeon has been removed.#
-A system error has occurred in the Memorial Dungeon. Please relog in to the game to continue playing.#
-This slot is not usable.#
-Your Base Level is over 15.#
-Your Job Level is over 15.#
-You cannot play the Merchant class character in this slot.#
-Not Yet Implemented#
-You are not eligible to open the Character Slot.#
-This character cannot be deleted.#
-This character's equipment information is not open to the public.#
-Equipment information not open to the public.#
-Equipment information open to the public.#
-Check %s's Equipment Info#
-'%s's Equipment#
-Show Equip#
-This service is only available for premium users.#
-Free Trial users can only hold up to 50,000 zeny.#
-Battlefield Chat has been activated.#
-Battlefield Chat has been deactivated.#
-Mercenary Info - Monster Type#
-World Map#
-The Memorial Dungeon is now closed.#
-^ff0000Deleting a Mercenary Soldier^000000 will also delete his growth history. Do you really want to proceed with the deletion?#
-The Memorial Dungeon is now open.#
-This account has not been confirmed by connecting to the safe communication key. Please connect to the key first, and then log into the game.#
-The number of accounts connected to this IP has exceeded the limit.#
-You have received a new quest.#
-^CC3399Requirement:#
-View Skill Info#
-Once used, skill points cannot be re-allocated. Would you like to use the skill points?#
+%s en Modo de Espera#
+%s Disponible#
+%s en Progreso#
+La Instancia ha desaparecido porque nadie ha entrado al Memorial Dungeon.#
+Por favor, solicita de nuevo la entrada al Dungeon para poder iniciarlo.#
+Su prioridad de espera: ^ff0000%d^000000#
+La Dungeon solicitada desaparecerá si no ingresas en los próximos ^ff0000%s^000000.#
+Tiempo límite de la Misión de Dungeon:#
+La reserva de Memorial Dungeon ha sido cancelada.#
+La duración del Memorial Dungeon expiró; Ha sido destruido.#
+El límite de tiempo de entrada del Memorial Dungeon expiró; Ha sido destruido.#
+El Memorial Dungeon ha sido eliminado.#
+Se ha producido un error del sistema en el Memorial Dungeon. Vuelve a iniciar sesión en el juego para seguir jugando.#
+Este slot no es utilizable.#
+Tu Nivel Base es superior a 15.#
+Su Nivel de Job es superior a 15.#
+No puedes jugar el personaje de la clase Merchant en este slot.#
+No se ha implementado#
+No se te permite usar este slot de personaje.#
+Este personaje no se puede eliminar.#
+La información del equipo de este personaje no está abierta al público.#
+La información del equipo no está abierta al público.#
+Información del equipo abierta al público.#
+Verifique la información del equipo de %s#
+Equipo de %s#
+Mostrar equipo#
+Este servicio solo está disponible para usuarios premium.#
+Las usuarios de prueba gratuita solo pueden contener hasta 50,000 zeny.#
+Battlefield Chat ha sido activado.#
+Battlefield Chat ha sido desactivado.#
+Infon de mercenarios - Tipo de monstruo#
+Mapa del Mundo#
+El Memorial Dungeon ahora está cerrado.#
+^ff0000Eliminar un Mercenario^000000 También eliminará su historial de crecimiento. ¿Realmente quieres continuar con la eliminación?#
+El Memorial Dungeon ya está abierto.#
+Esta cuenta no ha sido confirmada al conectarse a la clave de comunicación segura. Conéctese primero a la clave y luego inicie sesión en el juego.#
+El número de cuentas conectadas a esta IP ha excedido el límite.#
+Has recibido una nueva misión.#
+^CC3399Requisito:#
+Ver info de Skills#
+Una vez utilizados, los puntos de skill no pueden reasignarse. ¿Te gustaría usar los puntos de skill?#
 1stJob#
 2ndJob#
-This account has been used for illegal program or hacking program. Block Time: %s#
-The possibility of exposure to illegal program, PC virus infection or Hacking Tool has been detected. Please execute licensed client. Our team is trying to make a best environment for Ro players.#
-You are currently playing in the best game environment. Please enjoy the Ragnarok.#
-Job Exp points from hunting monsters are increased by 50% for 30 minutes.#
-Exp points from hunting monsters are increased by 25% for 30 minutes.#
-EXP points from hunting monsters are increased by 100% for 30 minutes.#
-EXP points from hunting monsters are increased by 50% for 60 minutes.#
-Unable to organize a party in this map.#
-(%s) are currently in restricted map to join a party.#
-Simple Item Shop#
+Esta cuenta ha sido utilizada con programas ilegales o programas de piratería. Tiempo de bloqueo: %s#
+Se ha detectado la posibilidad de exposición a un programa ilegal, infección por virus de PC o herramienta de pirateo. Ejecute cliente con licencia. Nuestro equipo está tratando de crear un mejor ambiente para los jugadores de Ro.#
+Actualmente estás jugando en el mejor entorno de juego. Disfruta el Ragnarok.#
+Puntos de Exp Job por matar monstruos han incrementado un 50% durante 30 minutos.#
+Puntos de Exp Base por matar monstruos han incrementado un 25% durante 30 minutos.#
+Puntos de Exp Base por matar monstruos han incrementado un 100% durante 30 minutos.#
+Puntos de Exp Base por matar monstruos han incrementado un 50% durante 60 minutos.#
+No se puede organizar una party en este mapa.#
+(%s) actualmente se encuentra en un mapa restringido para unirse a un party.#
+Tienda simple de items#
 Han Coin: %d Han Coin#
 RoK Point: %d RoK Point#
 Free Cash: %d Cash#
-An user of this server cannot connect to free server#
-Your password has expired. Please log in again#
+Un usuario de este servidor no puede conectarse al servidor libre#
+Tu contraseña ha expirado. Por favor ingrese nuevamente#
 3rdJob#
-This skill can't be used on that target.#
-You can't use skill because you have exceeded the number Ancilla possession limit#
-[Holy Water] is required.#
-[Ancilla] is required.#
-Cannot be duplicated within a certain distance.#
-This skill requires other skills to be used.#
-Chat is not allowed in this map#
-3 hours have passed.#
-5 hours have passed.#
+Esta skill no se puede usar en ese objetivo.#
+No puedes usar la skill porque has excedido el límite de posesión de Ancilla.#
+[Holy Water] es requerido.#
+[Ancilla] es requerido.#
+No se puede duplicar dentro de una cierta distancia.#
+Esta skill requiere otras skills para ser utilizada.#
+El chat no está permitido en este mapa#
+Han pasado 3 horas.#
+Han pasado 5 horas.#
 Game guard initialization error or previous version game guard file is installed. Please re-install the setup file and try again#
 Either ini file is missing or altered. Install game guard setup file to fix the problem#
 There is a program found that conflicts with game guard#
